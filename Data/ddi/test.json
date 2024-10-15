@@ -1,0 +1,2714 @@
+[
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "ketoconazole",
+    "entity2": "panobinostat",
+    "text": "In the presence of <drug>ketoconazole</drug>, there was 1.6- and 1.8-fold increase in C (max) and AUC of <drug>panobinostat</drug>, respectively. ",
+    "source": "MedLine"
+  },
+  {
+    "_id": 0,
+    "label_name": "effect",
+    "entity1": "lenalidomide",
+    "entity2": "CCI-779",
+    "text": "The preclinical combination of <drug>lenalidomide</drug> with the mTOR inhibitor <drug>CCI-779</drug> has displayed synergy in vitro and represents a novel combination in MM.",
+    "source": "MedLine"
+  },
+  {
+    "_id": 0,
+    "label_name": "effect",
+    "entity1": "celecoxib",
+    "entity2": "doxorubicin",
+    "text": "We found antagonism between celecoxib and the four drugs in the breast cancer cells MCF7 following all incubation schedules and between <drug>celecoxib</drug> and <drug>doxorubicin</drug> in all cell lines except for two combinations in HCT116 cells. ",
+    "source": "MedLine"
+  },
+  {
+    "_id": 0,
+    "label_name": "effect",
+    "entity1": "Ephedrine",
+    "entity2": "dexmedetomidine",
+    "text": "<drug>Ephedrine</drug> enhances the antinociceptive effect of <drug>dexmedetomidine</drug> in mice.\r\n",
+    "source": "MedLine"
+  },
+  {
+    "_id": 0,
+    "label_name": "effect",
+    "entity1": "dexmedetomidine",
+    "entity2": "ephedrine",
+    "text": "In the hot plate test in mice, co-administration of 15     g/kg <drug>dexmedetomidine</drug> with 10   mg/kg <drug>ephedrine</drug> intraperitoneally not only enhanced, but also prolonged the duration of antinociception induced by dexmedetomidine. ",
+    "source": "MedLine"
+  },
+  {
+    "_id": 0,
+    "label_name": "effect",
+    "entity1": "dexmedetomidine",
+    "entity2": "ephedrine",
+    "text": "At the same time, the locomotor inhibitory effect of <drug>dexmedetomidine</drug> was counteracted by <drug>ephedrine</drug>. ",
+    "source": "MedLine"
+  },
+  {
+    "_id": 0,
+    "label_name": "effect",
+    "entity1": "dexmedetomidine",
+    "entity2": "ephedrine",
+    "text": "We concluded that the combined administration of <drug>dexmedetomidine</drug> with <drug>ephedrine</drug> may have beneficial effects in the treatment of pain without causing sedation, which limits the use of dexmedetomidine as an analgesic in humans.",
+    "source": "MedLine"
+  },
+  {
+    "_id": 0,
+    "label_name": "effect",
+    "entity1": "amlodipine",
+    "entity2": "valsartan",
+    "text": "But the use of fixed combination <drug>amlodipine</drug>/<drug>valsartan</drug> compared with traditional therapy was associated with lower clinical and self measured BP, quicker achievement of target BP (5.8+/-2.3 and 9.2+/-1.8 days, respectively, 0.05), lesser number of antihypertensive drugs (2.5+/-0.6 and 3.0+/-0.9 days, respectively), lower rate of concealed inefficacy of treatment (12 and 31%, respectively, 0.05). ",
+    "source": "MedLine"
+  },
+  {
+    "_id": 0,
+    "label_name": "effect",
+    "entity1": "amlodipine",
+    "entity2": "valsartan",
+    "text": "We have demonstrated appropriateness of inhospital administration of fixed <drug>amlodipine</drug>/<drug>valsartan</drug> combination as an approach allowing to achieve target BP in shorter time, with the use of fewer antihypertensive drugs, and diminishing concealed inefficacy of treatment.",
+    "source": "MedLine"
+  },
+  {
+    "_id": 0,
+    "label_name": "effect",
+    "entity1": "ketamine",
+    "entity2": "propofol",
+    "text": "Based on this experience, we suggest that low-dose <drug>ketamine</drug> added to <drug>propofol</drug> may be associated with prevention of EA in children with a history of EA with propofol TIVA.",
+    "source": "MedLine"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "midazolam",
+    "entity2": "cyclosporine",
+    "text": "Systemic and apparent oral <drug>midazolam</drug> clearance were 24% (269    73 vs. 354    102  ml/min, P = 0.022) and 31% (479    190 vs. 688    265  ml/min, P = 0.013), respectively, lower in <drug>cyclosporine</drug>-treated patients (n = 20) than in matched tacrolimus-treated patients (n = 20). ",
+    "source": "MedLine"
+  },
+  {
+    "_id": 3,
+    "label_name": "int",
+    "entity1": "sunitinib",
+    "entity2": "docetaxel",
+    "text": "Synergistic interaction between <drug>sunitinib</drug> and <drug>docetaxel</drug> is sequence dependent in human non-small lung cancer with EGFR TKIs-resistant mutation.",
+    "source": "MedLine"
+  },
+  {
+    "_id": 0,
+    "label_name": "effect",
+    "entity1": "sunitinib",
+    "entity2": "docetaxel",
+    "text": "Although single or concurrent use of <drug>sunitinib</drug> and <drug>docetaxel</drug> has some anti-proliferative effects, the sequential administrations of both drugs remarkably enhanced anti-tumor activity. ",
+    "source": "MedLine"
+  },
+  {
+    "_id": 0,
+    "label_name": "effect",
+    "entity1": "docetaxel",
+    "entity2": "sunitinib",
+    "text": "When cells were exposed to <drug>docetaxel</drug> followed by <drug>sunitinib</drug>, synergism was observed. ",
+    "source": "MedLine"
+  },
+  {
+    "_id": 0,
+    "label_name": "effect",
+    "entity1": "docetaxel",
+    "entity2": "sunitinib",
+    "text": "The molecular basis of this synergism is that the signaling pathways that were initially activated by <drug>docetaxel</drug> exposure were efficiently suppressed by the subsequent exposure to <drug>sunitinib</drug>. ",
+    "source": "MedLine"
+  },
+  {
+    "_id": 0,
+    "label_name": "effect",
+    "entity1": "docetaxel",
+    "entity2": "sunitinib",
+    "text": "Sunitinib as a single agent exhibits anti-proliferative effects in vitro in NSCLC cell lines with EGFR T790M and K-ras mutations but the sequential administration of <drug>docetaxel</drug> followed by <drug>sunitinib</drug> is superior to sunitinib followed by docetaxel and concurrent administration.",
+    "source": "MedLine"
+  },
+  {
+    "_id": 3,
+    "label_name": "int",
+    "entity1": "levothyroxine",
+    "entity2": "simeticone",
+    "text": "The authors report the case of an infant with confirmed congenital hypothyroidism on <drug>levothyroxine</drug> who experienced a possible drug interaction with <drug>simeticone</drug>. ",
+    "source": "MedLine"
+  },
+  {
+    "_id": 0,
+    "label_name": "effect",
+    "entity1": "dasatinib",
+    "entity2": "paclitaxel",
+    "text": "The role of p27(Kip1) in <drug>dasatinib</drug>-enhanced <drug>paclitaxel</drug> cytotoxicity in human ovarian cancer cells.\r\n",
+    "source": "MedLine"
+  },
+  {
+    "_id": 0,
+    "label_name": "effect",
+    "entity1": "dasatinib",
+    "entity2": "paclitaxel",
+    "text": "HEY cells treated with <drug>dasatinib</drug> plus <drug>paclitaxel</drug> formed fewer colonies than did cells treated with either agent alone. ",
+    "source": "MedLine"
+  },
+  {
+    "_id": 0,
+    "label_name": "effect",
+    "entity1": "dasatinib",
+    "entity2": "paclitaxel",
+    "text": "Treatment of HEY xenograft-bearing mice with <drug>dasatinib</drug> plus <drug>paclitaxel</drug> inhibited tumor growth more than treatment with either agent alone (average tumor volume per mouse, dasatinib + paclitaxel vs paclitaxel: 0.28 vs. 0.81 cm3, difference = 0.53 cm3, 95% confidence interval [CI] = 0.44 to 0.62 cm3, P = .014); ",
+    "source": "MedLine"
+  },
+  {
+    "_id": 0,
+    "label_name": "effect",
+    "entity1": "dasatinib",
+    "entity2": "paclitaxel",
+    "text": "Studies with forced expression and siRNA knockdown of Bcl-2 and Cdk1 suggest that <drug>dasatinib</drug>-mediated induction of p27(Kip1) enhanced <drug>paclitaxel</drug>-induced apoptosis by negatively regulating Bcl-2 and Cdk1 expression. ",
+    "source": "MedLine"
+  },
+  {
+    "_id": 0,
+    "label_name": "effect",
+    "entity1": "dasatinib",
+    "entity2": "paclitaxel",
+    "text": "Inhibition of Src family and Abl kinases with either siRNAs or <drug>dasatinib</drug> enhances <drug>paclitaxel</drug> sensitivity of ovarian cancer cells through p27(Kip1)-mediated suppression of Bcl-2 and Cdk1 expression.",
+    "source": "MedLine"
+  },
+  {
+    "_id": 0,
+    "label_name": "effect",
+    "entity1": "Imexon",
+    "entity2": "dacarbazine",
+    "text": "<drug>Imexon</drug> and <drug>dacarbazine</drug> show additive effects in vitro but not in vivo in human A375 melanoma cells.",
+    "source": "MedLine"
+  },
+  {
+    "_id": 2,
+    "label_name": "advise",
+    "entity1": "tamoxifen",
+    "entity2": "paroxetine",
+    "text": "It is better to avoid prescribing isoenzyme CYP 2D6 inhibitors to women treated with <drug>tamoxifen</drug> for breast cancer, especially SSRI antidepressants such as <drug>paroxetine</drug> and fluoxetine. ",
+    "source": "MedLine"
+  },
+  {
+    "_id": 2,
+    "label_name": "advise",
+    "entity1": "tamoxifen",
+    "entity2": "fluoxetine",
+    "text": "It is better to avoid prescribing isoenzyme CYP 2D6 inhibitors to women treated with <drug>tamoxifen</drug> for breast cancer, especially SSRI antidepressants such as paroxetine and <drug>fluoxetine</drug>. ",
+    "source": "MedLine"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "Moxifloxacin",
+    "entity2": "sucralfate",
+    "text": "<drug>Moxifloxacin</drug> and Lomefloxacin reacts faster with <drug>sucralfate</drug> and gelusil in acidic media whereas with erythromycin in basic media and multi-minerals in neutral media. ",
+    "source": "MedLine"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "Moxifloxacin",
+    "entity2": "erythromycin",
+    "text": "<drug>Moxifloxacin</drug> and Lomefloxacin reacts faster with sucralfate and gelusil in acidic media whereas with <drug>erythromycin</drug> in basic media and multi-minerals in neutral media. ",
+    "source": "MedLine"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "Lomefloxacin",
+    "entity2": "sucralfate",
+    "text": "Moxifloxacin and <drug>Lomefloxacin</drug> reacts faster with <drug>sucralfate</drug> and gelusil in acidic media whereas with erythromycin in basic media and multi-minerals in neutral media. ",
+    "source": "MedLine"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "Lomefloxacin",
+    "entity2": "erythromycin",
+    "text": "Moxifloxacin and <drug>Lomefloxacin</drug> reacts faster with sucralfate and gelusil in acidic media whereas with <drug>erythromycin</drug> in basic media and multi-minerals in neutral media. ",
+    "source": "MedLine"
+  },
+  {
+    "_id": 0,
+    "label_name": "effect",
+    "entity1": "S-ketamine",
+    "entity2": "ticlopidine",
+    "text": "Exposure to oral <drug>S-ketamine</drug> is unaffected by itraconazole but greatly increased by <drug>ticlopidine</drug>.\r\n",
+    "source": "MedLine"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "Ticlopidine",
+    "entity2": "ketamine",
+    "text": "<drug>Ticlopidine</drug> treatment increased the mean area under the plasma concentration-time curve extrapolated to infinity (AUC(0-   )) of oral <drug>ketamine</drug> by 2.4-fold, whereas itraconazole treatment did not increase the exposure to S-ketamine. ",
+    "source": "MedLine"
+  },
+  {
+    "_id": 2,
+    "label_name": "advise",
+    "entity1": "S-ketamine",
+    "entity2": "ticlopidine",
+    "text": "The findings suggest that the dosage of <drug>S-ketamine</drug> should be reduced in patients receiving <drug>ticlopidine</drug>.",
+    "source": "MedLine"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "omeprazole",
+    "entity2": "clopidogrel",
+    "text": "Concomitant use of <drug>omeprazole</drug> and <drug>clopidogrel</drug> was found to decrease the exposure (AUC) to clopidogrel's active metabolite by 50% and to sharply increase platelet reactivity, as a result of inhibition by omeprazole of CYP2C19, a cytochrome P450 (CYP) enzyme. ",
+    "source": "MedLine"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "Pantoprazole",
+    "entity2": "clopidogrel",
+    "text": "<drug>Pantoprazole</drug> has a much weaker effect on <drug>clopidogrel</drug>'s pharmacokinetics and on platelet reactivity during concomitant use. ",
+    "source": "MedLine"
+  },
+  {
+    "_id": 2,
+    "label_name": "advise",
+    "entity1": "clopidogrel",
+    "entity2": "omeprazole",
+    "text": "Regulatory agencies state that the combination of <drug>clopidogrel</drug> and the CYP2C19 inhibitors <drug>omeprazole</drug> and esomeprazole should be avoided. ",
+    "source": "MedLine"
+  },
+  {
+    "_id": 2,
+    "label_name": "advise",
+    "entity1": "clopidogrel",
+    "entity2": "esomeprazole",
+    "text": "Regulatory agencies state that the combination of <drug>clopidogrel</drug> and the CYP2C19 inhibitors omeprazole and <drug>esomeprazole</drug> should be avoided. ",
+    "source": "MedLine"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "Calcium",
+    "entity2": "nonheme iron",
+    "text": "<drug>Calcium</drug> is the only known component in the diet that may affect absorption of both <drug>nonheme and </drug>heme iron. ",
+    "source": "MedLine"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "Calcium",
+    "entity2": "heme iron",
+    "text": "<drug>Calcium</drug> is the only known component in the diet that may affect absorption of both nonheme and <drug>heme iron</drug>. ",
+    "source": "MedLine"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "calcium",
+    "entity2": "iron",
+    "text": "However, the evidence for a <drug>calcium</drug> effect on <drug>iron</drug> absorption mainly comes from studies that did not isolate the effect of calcium from that of other dietary components, because it was detected in single-meal studies. ",
+    "source": "MedLine"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "Calcium",
+    "entity2": "nonheme iron",
+    "text": "<drug>Calcium</drug> doses   1000 mg diminished <drug>nonheme iron</drug> absorption by an average of 49.6%.",
+    "source": "MedLine"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "calcium",
+    "entity2": "heme iron",
+    "text": "A <drug>calcium</drug> dose of 800 mg diminished absorption of 5 mg <drug>heme iron</drug> by 37.7%. ",
+    "source": "MedLine"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "calcium",
+    "entity2": "nonheme iron",
+    "text": "In conclusion, we demonstrated an isolated effect of <drug>calcium</drug> (as chloride) on absorption of 5 mg of iron provided as <drug>nonheme (as </drug>sulfate) and heme (as CRBC) iron. ",
+    "source": "MedLine"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "calcium",
+    "entity2": "heme iron",
+    "text": "In conclusion, we demonstrated an isolated effect of <drug>calcium</drug> (as chloride) on absorption of 5 mg of iron provided as nonheme (as sulfate) and <drug>heme (as </drug>CRBC) iron. ",
+    "source": "MedLine"
+  },
+  {
+    "_id": 0,
+    "label_name": "effect",
+    "entity1": "Warfarin",
+    "entity2": "citalopram",
+    "text": "<drug>Warfarin</drug> users had an increased odds ratio of gastrointestinal bleeding upon initiation of <drug>citalopram</drug> (OR   =   1.73 [95% CI, 1.25-2.38]), fluoxetine (OR   =   1.63 [95% CI, 1.11-2.38]), paroxetine (OR   =   1.64 [95% CI, 1.27-2.12]), amitriptyline (OR   =   1.47 [95% CI, 1.02-2.11]). ",
+    "source": "MedLine"
+  },
+  {
+    "_id": 0,
+    "label_name": "effect",
+    "entity1": "Warfarin",
+    "entity2": "fluoxetine",
+    "text": "<drug>Warfarin</drug> users had an increased odds ratio of gastrointestinal bleeding upon initiation of citalopram (OR   =   1.73 [95% CI, 1.25-2.38]), <drug>fluoxetine</drug> (OR   =   1.63 [95% CI, 1.11-2.38]), paroxetine (OR   =   1.64 [95% CI, 1.27-2.12]), amitriptyline (OR   =   1.47 [95% CI, 1.02-2.11]). ",
+    "source": "MedLine"
+  },
+  {
+    "_id": 0,
+    "label_name": "effect",
+    "entity1": "Warfarin",
+    "entity2": "paroxetine",
+    "text": "<drug>Warfarin</drug> users had an increased odds ratio of gastrointestinal bleeding upon initiation of citalopram (OR   =   1.73 [95% CI, 1.25-2.38]), fluoxetine (OR   =   1.63 [95% CI, 1.11-2.38]), <drug>paroxetine</drug> (OR   =   1.64 [95% CI, 1.27-2.12]), amitriptyline (OR   =   1.47 [95% CI, 1.02-2.11]). ",
+    "source": "MedLine"
+  },
+  {
+    "_id": 0,
+    "label_name": "effect",
+    "entity1": "Warfarin",
+    "entity2": "amitriptyline",
+    "text": "<drug>Warfarin</drug> users had an increased odds ratio of gastrointestinal bleeding upon initiation of citalopram (OR   =   1.73 [95% CI, 1.25-2.38]), fluoxetine (OR   =   1.63 [95% CI, 1.11-2.38]), paroxetine (OR   =   1.64 [95% CI, 1.27-2.12]), <drug>amitriptyline</drug> (OR   =   1.47 [95% CI, 1.02-2.11]). ",
+    "source": "MedLine"
+  },
+  {
+    "_id": 0,
+    "label_name": "effect",
+    "entity1": "mirtazapine",
+    "entity2": "warfarin",
+    "text": "Also <drug>mirtazapine</drug>, which is not believed to interact with <drug>warfarin</drug>, increased the risk of GI bleeding (OR   =   1.75 [95% CI, 1.30-2.35]). ",
+    "source": "MedLine"
+  },
+  {
+    "_id": 0,
+    "label_name": "effect",
+    "entity1": "Warfarin",
+    "entity2": "citalopram",
+    "text": "<drug>Warfarin</drug> users who initiated <drug>citalopram</drug>, fluoxetine, paroxetine, amitriptyline, or mirtazapine had an increased risk of hospitalization for gastrointestinal bleeding. ",
+    "source": "MedLine"
+  },
+  {
+    "_id": 0,
+    "label_name": "effect",
+    "entity1": "Warfarin",
+    "entity2": "fluoxetine",
+    "text": "<drug>Warfarin</drug> users who initiated citalopram, <drug>fluoxetine</drug>, paroxetine, amitriptyline, or mirtazapine had an increased risk of hospitalization for gastrointestinal bleeding. ",
+    "source": "MedLine"
+  },
+  {
+    "_id": 0,
+    "label_name": "effect",
+    "entity1": "Warfarin",
+    "entity2": "paroxetine",
+    "text": "<drug>Warfarin</drug> users who initiated citalopram, fluoxetine, <drug>paroxetine</drug>, amitriptyline, or mirtazapine had an increased risk of hospitalization for gastrointestinal bleeding. ",
+    "source": "MedLine"
+  },
+  {
+    "_id": 0,
+    "label_name": "effect",
+    "entity1": "Warfarin",
+    "entity2": "amitriptyline",
+    "text": "<drug>Warfarin</drug> users who initiated citalopram, fluoxetine, paroxetine, <drug>amitriptyline</drug>, or mirtazapine had an increased risk of hospitalization for gastrointestinal bleeding. ",
+    "source": "MedLine"
+  },
+  {
+    "_id": 0,
+    "label_name": "effect",
+    "entity1": "Warfarin",
+    "entity2": "mirtazapine",
+    "text": "<drug>Warfarin</drug> users who initiated citalopram, fluoxetine, paroxetine, amitriptyline, or <drug>mirtazapine</drug> had an increased risk of hospitalization for gastrointestinal bleeding. ",
+    "source": "MedLine"
+  },
+  {
+    "_id": 0,
+    "label_name": "effect",
+    "entity1": "acetyl-l-carnitine",
+    "entity2": "alpha-lipoic acid",
+    "text": "(ii) <drug>acetyl-l-carnitine</drug> elicits a significant protective effect on DEB induced toxicity, which was potentiated by  <drug>alpha-lipoic acid</drug>.",
+    "source": "MedLine"
+  },
+  {
+    "_id": 0,
+    "label_name": "effect",
+    "entity1": "minocycline",
+    "entity2": "fosfomycin",
+    "text": "The combination of <drug>minocycline</drug> and <drug>fosfomycin</drug> can be synergistic against MRSA. ",
+    "source": "MedLine"
+  },
+  {
+    "_id": 0,
+    "label_name": "effect",
+    "entity1": "cinacalcet",
+    "entity2": "darbepoetin",
+    "text": "Reduction of PTH by <drug>cinacalcet</drug> is associated with a decrease in <drug>darbepoetin</drug> requirement. ",
+    "source": "MedLine"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "ropivacaine",
+    "entity2": "fluvoxamine",
+    "text": "In vivo, the plasma clearance of <drug>ropivacaine</drug> was reduced by 70% during coadministration of <drug>fluvoxamine</drug> (25 mg bid for 2 days), a selective and potent CYP1A2 inhibitor. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 3,
+    "label_name": "int",
+    "entity1": "fluvoxamine",
+    "entity2": "Ropivacaine",
+    "text": "Thus strong inhibitors of cytochrome P4501A2, such as <drug>fluvoxamine</drug>, given concomitantly during administration of <drug>Ropivacaine</drug>, can interact with Ropivacaine leading to increased ropivacaine plasma levels. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "ketoconazole",
+    "entity2": "ropivacaine",
+    "text": "Coadministration of a selective and potent inhibitor of CYP3A4, <drug>ketoconazole</drug> (100 mg bid for 2 days with ropivacaine infusion administered 1 hour after ketoconazole) caused a 15% reduction in in-vivo plasma clearance of <drug>ropivacaine</drug>.",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "cholestyramine",
+    "entity2": "meloxicam",
+    "text": "Cholestyramine: Pretreatment for four days with <drug>cholestyramine</drug> significantly increased the clearance of <drug>meloxicam</drug> by 50%. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "lithium",
+    "entity2": "meloxicam",
+    "text": "In a study conducted in healthy subjects, mean pre-dose lithium concentration and AUC were increased by 21% in subjects receiving <drug>lithium</drug> doses ranging from 804 to 1072 mg BID with <drug>meloxicam</drug> 15 mg QD as compared to subjects receiving lithium alone. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "ketoconazole",
+    "entity2": "mifepristone",
+    "text": "Although specific drug or food interactions with mifepristone have not been studied, on the basis of this drug   s metabolism by CYP 3A4, it is possible that <drug>ketoconazole</drug>, itraconazole, erythromycin, and grapefruit juice may inhibit its metabolism (increasing serum levels of <drug>mifepristone</drug>). ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "itraconazole",
+    "entity2": "mifepristone",
+    "text": "Although specific drug or food interactions with mifepristone have not been studied, on the basis of this drug   s metabolism by CYP 3A4, it is possible that ketoconazole, <drug>itraconazole</drug>, erythromycin, and grapefruit juice may inhibit its metabolism (increasing serum levels of <drug>mifepristone</drug>). ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "erythromycin",
+    "entity2": "mifepristone",
+    "text": "Although specific drug or food interactions with mifepristone have not been studied, on the basis of this drug   s metabolism by CYP 3A4, it is possible that ketoconazole, itraconazole, <drug>erythromycin</drug>, and grapefruit juice may inhibit its metabolism (increasing serum levels of <drug>mifepristone</drug>). ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "phenytoin",
+    "entity2": "mifepristone",
+    "text": "John   s Wort, and certain anticonvulsants (<drug>phenytoin</drug>, phenobarbital, carbamazepine) may induce <drug>mifepristone</drug> metabolism (lowering serum levels of mifepristone). ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "phenobarbital",
+    "entity2": "mifepristone",
+    "text": "John   s Wort, and certain anticonvulsants (phenytoin, <drug>phenobarbital</drug>, carbamazepine) may induce <drug>mifepristone</drug> metabolism (lowering serum levels of mifepristone). ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "carbamazepine",
+    "entity2": "mifepristone",
+    "text": "John   s Wort, and certain anticonvulsants (phenytoin, phenobarbital, <drug>carbamazepine</drug>) may induce <drug>mifepristone</drug> metabolism (lowering serum levels of mifepristone). ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 0,
+    "label_name": "effect",
+    "entity1": "acetylcholine chloride",
+    "entity2": "suprofen",
+    "text": "Other eye drops or medications such as <drug>acetylcholine chloride</drug> (Miochol) and carbachol (Carboptic, Isopto Carbachol) may decrease the effects of <drug>suprofen</drug> ophthalmic.",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 0,
+    "label_name": "effect",
+    "entity1": "carbachol",
+    "entity2": "suprofen",
+    "text": "Other eye drops or medications such as acetylcholine chloride (Miochol) and <drug>carbachol</drug> (Carboptic, Isopto Carbachol) may decrease the effects of <drug>suprofen</drug> ophthalmic.",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 3,
+    "label_name": "int",
+    "entity1": "Trilostane",
+    "entity2": "aminoglutethimide",
+    "text": "<drug>Trilostane</drug> may interact with <drug>aminoglutethimide</drug> or mitotane (causing too great a decrease in adrenal function).",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 3,
+    "label_name": "int",
+    "entity1": "Trilostane",
+    "entity2": "mitotane",
+    "text": "<drug>Trilostane</drug> may interact with aminoglutethimide or <drug>mitotane</drug> (causing too great a decrease in adrenal function).",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "Pindolol",
+    "entity2": "thioridazine",
+    "text": "<drug>Pindolol</drug> has been shown to increase serum <drug>thioridazine</drug> levels when both drugs are co-administered. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "ketoconazole",
+    "entity2": "paricalcitol",
+    "text": "A multiple dose drug-drug interaction study demonstrated that <drug>ketoconazole</drug> approximately doubled <drug>paricalcitol</drug> AUC0-   . Since paricalcitol is partially metabolized by CYP3A and ketoconazole le is known to be a strong inhibitor of cytochrome P450 3A enzyme, care should be taken while dosing paricalcitol with ketoconazole and other strong P450 3A inhibitors including atazanavir, clarithromycin, indinavir, itraconazole, nefazodone, nelfinavir, ritonavir, saquinavir, telithromycin or voriconazole. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 2,
+    "label_name": "advise",
+    "entity1": "paricalcitol",
+    "entity2": "ketoconazole",
+    "text": "A multiple dose drug-drug interaction study demonstrated that ketoconazole approximately doubled paricalcitol AUC0-   . Since paricalcitol is partially metabolized by CYP3A and ketoconazole le is known to be a strong inhibitor of cytochrome P450 3A enzyme, care should be taken while dosing <drug>paricalcitol</drug> with <drug>ketoconazole</drug> and other strong P450 3A inhibitors including atazanavir, clarithromycin, indinavir, itraconazole, nefazodone, nelfinavir, ritonavir, saquinavir, telithromycin or voriconazole. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 2,
+    "label_name": "advise",
+    "entity1": "paricalcitol",
+    "entity2": "atazanavir",
+    "text": "A multiple dose drug-drug interaction study demonstrated that ketoconazole approximately doubled paricalcitol AUC0-   . Since paricalcitol is partially metabolized by CYP3A and ketoconazole le is known to be a strong inhibitor of cytochrome P450 3A enzyme, care should be taken while dosing <drug>paricalcitol</drug> with ketoconazole and other strong P450 3A inhibitors including <drug>atazanavir</drug>, clarithromycin, indinavir, itraconazole, nefazodone, nelfinavir, ritonavir, saquinavir, telithromycin or voriconazole. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 2,
+    "label_name": "advise",
+    "entity1": "paricalcitol",
+    "entity2": "clarithromycin",
+    "text": "A multiple dose drug-drug interaction study demonstrated that ketoconazole approximately doubled paricalcitol AUC0-   . Since paricalcitol is partially metabolized by CYP3A and ketoconazole le is known to be a strong inhibitor of cytochrome P450 3A enzyme, care should be taken while dosing <drug>paricalcitol</drug> with ketoconazole and other strong P450 3A inhibitors including atazanavir, <drug>clarithromycin</drug>, indinavir, itraconazole, nefazodone, nelfinavir, ritonavir, saquinavir, telithromycin or voriconazole. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 2,
+    "label_name": "advise",
+    "entity1": "paricalcitol",
+    "entity2": "indinavir",
+    "text": "A multiple dose drug-drug interaction study demonstrated that ketoconazole approximately doubled paricalcitol AUC0-   . Since paricalcitol is partially metabolized by CYP3A and ketoconazole le is known to be a strong inhibitor of cytochrome P450 3A enzyme, care should be taken while dosing <drug>paricalcitol</drug> with ketoconazole and other strong P450 3A inhibitors including atazanavir, clarithromycin, <drug>indinavir</drug>, itraconazole, nefazodone, nelfinavir, ritonavir, saquinavir, telithromycin or voriconazole. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 2,
+    "label_name": "advise",
+    "entity1": "paricalcitol",
+    "entity2": "itraconazole",
+    "text": "A multiple dose drug-drug interaction study demonstrated that ketoconazole approximately doubled paricalcitol AUC0-   . Since paricalcitol is partially metabolized by CYP3A and ketoconazole le is known to be a strong inhibitor of cytochrome P450 3A enzyme, care should be taken while dosing <drug>paricalcitol</drug> with ketoconazole and other strong P450 3A inhibitors including atazanavir, clarithromycin, indinavir, <drug>itraconazole</drug>, nefazodone, nelfinavir, ritonavir, saquinavir, telithromycin or voriconazole. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 2,
+    "label_name": "advise",
+    "entity1": "nefazodone",
+    "entity2": "paricalcitol",
+    "text": "A multiple dose drug-drug interaction study demonstrated that ketoconazole approximately doubled paricalcitol AUC0-   . Since paricalcitol is partially metabolized by CYP3A and ketoconazole le is known to be a strong inhibitor of cytochrome P450 3A enzyme, care should be taken while dosing <drug>paricalcitol</drug> with ketoconazole and other strong P450 3A inhibitors including atazanavir, clarithromycin, indinavir, itraconazole, <drug>nefazodone</drug>, nelfinavir, ritonavir, saquinavir, telithromycin or voriconazole. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 2,
+    "label_name": "advise",
+    "entity1": "nelfinavir",
+    "entity2": "paricalcitol",
+    "text": "A multiple dose drug-drug interaction study demonstrated that ketoconazole approximately doubled paricalcitol AUC0-   . Since paricalcitol is partially metabolized by CYP3A and ketoconazole le is known to be a strong inhibitor of cytochrome P450 3A enzyme, care should be taken while dosing <drug>paricalcitol</drug> with ketoconazole and other strong P450 3A inhibitors including atazanavir, clarithromycin, indinavir, itraconazole, nefazodone, <drug>nelfinavir</drug>, ritonavir, saquinavir, telithromycin or voriconazole. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 2,
+    "label_name": "advise",
+    "entity1": "ritonavir",
+    "entity2": "paricalcitol",
+    "text": "A multiple dose drug-drug interaction study demonstrated that ketoconazole approximately doubled paricalcitol AUC0-   . Since paricalcitol is partially metabolized by CYP3A and ketoconazole le is known to be a strong inhibitor of cytochrome P450 3A enzyme, care should be taken while dosing <drug>paricalcitol</drug> with ketoconazole and other strong P450 3A inhibitors including atazanavir, clarithromycin, indinavir, itraconazole, nefazodone, nelfinavir, <drug>ritonavir</drug>, saquinavir, telithromycin or voriconazole. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 2,
+    "label_name": "advise",
+    "entity1": "saquinavir",
+    "entity2": "paricalcitol",
+    "text": "A multiple dose drug-drug interaction study demonstrated that ketoconazole approximately doubled paricalcitol AUC0-   . Since paricalcitol is partially metabolized by CYP3A and ketoconazole le is known to be a strong inhibitor of cytochrome P450 3A enzyme, care should be taken while dosing <drug>paricalcitol</drug> with ketoconazole and other strong P450 3A inhibitors including atazanavir, clarithromycin, indinavir, itraconazole, nefazodone, nelfinavir, ritonavir, <drug>saquinavir</drug>, telithromycin or voriconazole. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 2,
+    "label_name": "advise",
+    "entity1": "telithromycin",
+    "entity2": "paricalcitol",
+    "text": "A multiple dose drug-drug interaction study demonstrated that ketoconazole approximately doubled paricalcitol AUC0-   . Since paricalcitol is partially metabolized by CYP3A and ketoconazole le is known to be a strong inhibitor of cytochrome P450 3A enzyme, care should be taken while dosing <drug>paricalcitol</drug> with ketoconazole and other strong P450 3A inhibitors including atazanavir, clarithromycin, indinavir, itraconazole, nefazodone, nelfinavir, ritonavir, saquinavir, <drug>telithromycin</drug> or voriconazole. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 2,
+    "label_name": "advise",
+    "entity1": "voriconazole",
+    "entity2": "paricalcitol",
+    "text": "A multiple dose drug-drug interaction study demonstrated that ketoconazole approximately doubled paricalcitol AUC0-   . Since paricalcitol is partially metabolized by CYP3A and ketoconazole le is known to be a strong inhibitor of cytochrome P450 3A enzyme, care should be taken while dosing <drug>paricalcitol</drug> with ketoconazole and other strong P450 3A inhibitors including atazanavir, clarithromycin, indinavir, itraconazole, nefazodone, nelfinavir, ritonavir, saquinavir, telithromycin or <drug>voriconazole</drug>. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "Thiabendazole",
+    "entity2": "theophylline",
+    "text": "<drug>Thiabendazole</drug> may compete with other drugs, such as <drug>theophylline</drug>, for sites of metabolism in the liver, thus elevating the serum levels of such compounds to potentially toxic levels. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 0,
+    "label_name": "effect",
+    "entity1": "propoxyphene",
+    "entity2": "alcohol",
+    "text": "The CNS-depressant effect of <drug>propoxyphene</drug> is additive with that of other CNS depressants, including <drug>alcohol</drug>. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 3,
+    "label_name": "int",
+    "entity1": "Melatonin",
+    "entity2": "fluvoxamine",
+    "text": "<drug>Melatonin</drug> may interact with the following drugs: aspirin and other NSAIDs (may lower melatonin levels), <drug>fluvoxamine</drug> (bioavailability of oral melatonin is increased with coadministration), beta blockers (may decrease melatonin levels), fluoxetine (reports of psychotic episodes when coadministered), progestin (coadministration of melatonin with progestin can inhibit ovarian function in women), benzodiazepenes and other sedating drugs (may result in additive sedation and an increased incidence of adverse effects), and corticosteroids (coadministration of melatonin and corticosteroids may interfere with the efficacy of the corticosteroids).",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 3,
+    "label_name": "int",
+    "entity1": "Melatonin",
+    "entity2": "fluoxetine",
+    "text": "<drug>Melatonin</drug> may interact with the following drugs: aspirin and other NSAIDs (may lower melatonin levels), fluvoxamine (bioavailability of oral melatonin is increased with coadministration), beta blockers (may decrease melatonin levels), <drug>fluoxetine</drug> (reports of psychotic episodes when coadministered), progestin (coadministration of melatonin with progestin can inhibit ovarian function in women), benzodiazepenes and other sedating drugs (may result in additive sedation and an increased incidence of adverse effects), and corticosteroids (coadministration of melatonin and corticosteroids may interfere with the efficacy of the corticosteroids).",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 3,
+    "label_name": "int",
+    "entity1": "Mequitazine",
+    "entity2": "alcohol",
+    "text": "<drug>Mequitazine</drug> can interact with CNS depressant, antichlolinergic, TCA, MAOIs, and <drug>alcohol</drug>.",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "digoxin",
+    "entity2": "perindopril",
+    "text": "Digoxin: A controlled pharmacokinetic study has shown no effect on plasma digoxin concentrations when coadministered with ACEON    Tablets, but an effect of <drug>digoxin</drug> on the plasma concentration of <drug>perindopril</drug>/perindoprilat has not been excluded. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 3,
+    "label_name": "int",
+    "entity1": "perindopril",
+    "entity2": "gentamicin",
+    "text": "Gentamicin: Animal data have suggested the possibility of interaction between <drug>perindopril</drug> and <drug>gentamicin</drug>. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "Mitotane",
+    "entity2": "warfarin",
+    "text": "<drug>Mitotane</drug> has been reported to accelerate the metabolism of <drug>warfarin</drug> by the mechanism of hepatic microsomal enzyme induction, leading to an increase in dosage requirements for warfarin. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 2,
+    "label_name": "advise",
+    "entity1": "MEPERIDINE",
+    "entity2": "ALCOHOL",
+    "text": "Interaction with Other Central Nervous System Depressants: <drug>MEPERIDINE</drug> SHOULD BE USED WITH GREAT CAUTION AND IN REDUCED DOSAGE IN PATIENTS WHO ARE CONCURRENTLY RECEIVING OTHER NARCOTIC ANALGESICS, GENERAL ANESTHETICS, PHENOTHIAZINES, OTHER TRANQUILIZERS, SEDATIVE-HYPNOTICS (INCLUDING BARBITURATES), TRICYCLIC ANTIDEPRESSANTS AND OTHER CNS DEPRESSANTS (INCLUDING <drug>ALCOHOL</drug>). ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 0,
+    "label_name": "effect",
+    "entity1": "minoxidil",
+    "entity2": "guanethidine",
+    "text": "Interaction with Guanethidine: Although <drug>minoxidil</drug> does not itself cause orthostatic hypotension, its administration to patients already receiving <drug>guanethidine</drug> can result in profound orthostatic effects. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 2,
+    "label_name": "advise",
+    "entity1": "guanethidine",
+    "entity2": "minoxidil",
+    "text": "If at all possible <drug>guanethidine</drug> should be discontinued well before <drug>minoxidil</drug> is begun. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "digoxin",
+    "entity2": "sitagliptin",
+    "text": "Digoxin: There was a slight increase in the area under the curve (AUC, 11%) and mean peak drug concentration (Cmax, 18%) of <drug>digoxin</drug> with the co-administration of 100 mg <drug>sitagliptin</drug> for 10 days. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "Ketoconazole",
+    "entity2": "tolterodine",
+    "text": "CYP3A4 Inhibitors: <drug>Ketoconazole</drug>, an inhibitor of the drug metabolizing enzyme CYP3A4, significantly increased plasma concentrations of <drug>tolterodine</drug> when coadministered to subjects who were poor metabolizers (see CLINICAL PHARMACOLOGY, Variability in Metabolism and Drug-Drug Interactions). ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 2,
+    "label_name": "advise",
+    "entity1": "alcohol",
+    "entity2": "pentazocine",
+    "text": "Usage with Alcohol: Due to the potential for increased CNS depressants effects, <drug>alcohol</drug> should be used with caution in patients who are currently receiving <drug>pentazocine</drug>.",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 0,
+    "label_name": "effect",
+    "entity1": "alcohol",
+    "entity2": "methyprylon",
+    "text": "Concurrent use of <drug>alcohol</drug> and other CNS depression-producing drugs may increase the CNS depressant effects of <drug>methyprylon</drug> or these other medications.",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 0,
+    "label_name": "effect",
+    "entity1": "oxymorphone",
+    "entity2": "propofol",
+    "text": "It has been reported that the incidence of bradycardia was increased when <drug>oxymorphone</drug> was combined with <drug>propofol</drug> for induction of anesthesia. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 0,
+    "label_name": "effect",
+    "entity1": "selegiline",
+    "entity2": "meperidine",
+    "text": "The occurrence of stupor, muscular rigidity, severe agitation, and elevated temperature has been reported in some patients receiving the combination of <drug>selegiline</drug> and <drug>meperidine</drug>. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 0,
+    "label_name": "effect",
+    "entity1": "selegiline",
+    "entity2": "ephedrine",
+    "text": "One case of hypertensive crisis has been reported in a patient taking the recommended doses of <drug>selegiline</drug> and a sympathomimetic medication (<drug>ephedrine</drug>).",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 2,
+    "label_name": "advise",
+    "entity1": "tigecycline",
+    "entity2": "warfarin",
+    "text": "Prothrombin time or other suitable anticoagulation test should be monitored if <drug>tigecycline</drug> is administered with <drug>warfarin</drug>.   ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 0,
+    "label_name": "effect",
+    "entity1": "metaraminol",
+    "entity2": "halothane",
+    "text": "Vasopressors, particularly <drug>metaraminol</drug>, may cause serious cardiac arrhythmias during <drug>halothane</drug> anesthesia and therefore should be used only with great caution or not at all. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 0,
+    "label_name": "effect",
+    "entity1": "morphine",
+    "entity2": "alcohol",
+    "text": "Use with Other Central Nervous System Depressants: The depressant effects of <drug>morphine</drug> are potentiated by the presence of other CNS depressants such as <drug>alcohol</drug>, sedatives, antihistaminics, or psychotropic drugs. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "valproic acid",
+    "entity2": "temozolomide",
+    "text": "Administration of <drug>valproic acid</drug> decreases oral clearance of <drug>temozolomide</drug> by about 5%. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "cimetidine",
+    "entity2": "mebendazole",
+    "text": "Preliminary evidence suggests that <drug>cimetidine</drug> inhibits <drug>mebendazole</drug> metabolism and may result in an increase in plasma concentrations of mebendazole.",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 2,
+    "label_name": "advise",
+    "entity1": "phenobarbital",
+    "entity2": "montelukast",
+    "text": "It is reasonable to employ appropriate clinical monitoring when potent cytochrome P450 enzyme inducers, such as <drug>phenobarbital</drug> or rifampin, are co-administered with <drug>montelukast</drug>. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 2,
+    "label_name": "advise",
+    "entity1": "rifampin",
+    "entity2": "montelukast",
+    "text": "It is reasonable to employ appropriate clinical monitoring when potent cytochrome P450 enzyme inducers, such as phenobarbital or <drug>rifampin</drug>, are co-administered with <drug>montelukast</drug>. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 2,
+    "label_name": "advise",
+    "entity1": "phenobarbital",
+    "entity2": "montelukast",
+    "text": "It is reasonable to employ appropriate clinical monitoring when potent cytochrome P450 enzyme inducers, such as <drug>phenobarbital</drug> or rifampin, are co-administered with <drug>montelukast</drug>.",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 2,
+    "label_name": "advise",
+    "entity1": "rifampin",
+    "entity2": "montelukast",
+    "text": "It is reasonable to employ appropriate clinical monitoring when potent cytochrome P450 enzyme inducers, such as phenobarbital or <drug>rifampin</drug>, are co-administered with <drug>montelukast</drug>.",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 0,
+    "label_name": "effect",
+    "entity1": "Sulfoxone",
+    "entity2": "tolbutamide",
+    "text": "<drug>Sulfoxone</drug> may increase the effects of barbiturates, <drug>tolbutamide</drug>, and uricosurics. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "rimantadine HCl",
+    "entity2": "Cimetidine",
+    "text": "When a single 100 mg dose of <drug>rimantadine HCl</drug> was administered one hour after the initiation of <drug>Cimetidine</drug> (300 mg four times a day), the apparent total rimantadine clearance of this single dose in normal healthy adults was reduced by 18% (compared to the apparent total rimantadine clearance in the same subjects in the absence of cimetidine). ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "acetaminophen",
+    "entity2": "rimantadine",
+    "text": "Coadministration with <drug>acetaminophen</drug> reduced the peak concentration and AUC values for <drug>rimantadine</drug> by approximately 11%. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 0,
+    "label_name": "effect",
+    "entity1": "mercaptopurine",
+    "entity2": "Thioguanine",
+    "text": "There is usually complete cross-resistance between PURINETHOL (<drug>mercaptopurine</drug>) and TABLOID brand <drug>Thioguanine</drug>. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "olsalazine",
+    "entity2": "thioguanine",
+    "text": "As there is in vitro evidence that aminosalicylate derivatives (e.g., <drug>olsalazine</drug>, mesalazine, or sulphasalazine) inhibit the TPMT enzyme, they should be administered with caution to patients receiving concurrent <drug>thioguanine</drug> therapy.    ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "mesalazine",
+    "entity2": "thioguanine",
+    "text": "As there is in vitro evidence that aminosalicylate derivatives (e.g., olsalazine, <drug>mesalazine</drug>, or sulphasalazine) inhibit the TPMT enzyme, they should be administered with caution to patients receiving concurrent <drug>thioguanine</drug> therapy.    ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "sulphasalazine",
+    "entity2": "thioguanine",
+    "text": "As there is in vitro evidence that aminosalicylate derivatives (e.g., olsalazine, mesalazine, or <drug>sulphasalazine</drug>) inhibit the TPMT enzyme, they should be administered with caution to patients receiving concurrent <drug>thioguanine</drug> therapy.    ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "GH",
+    "entity2": "antipyrine",
+    "text": "Limited published data indicate that <drug>GH</drug> treatment increases cytochrome P450 (CP450) mediated <drug>antipyrine</drug> clearance in man. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "GH",
+    "entity2": "cyclosporin",
+    "text": "These data suggest that <drug>GH</drug> administration may alter the clearance of compounds known to be metabolized by CP450 liver enzymes (e.g., corticosteroids, sex steroids, anticonvulsants, <drug>cyclosporin</drug>). ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 0,
+    "label_name": "effect",
+    "entity1": "Mecamylamine",
+    "entity2": "alcohol",
+    "text": "The action of <drug>Mecamylamine</drug> may be potentiated by anesthesia, other antihypertensive drugs and <drug>alcohol</drug>.",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 0,
+    "label_name": "effect",
+    "entity1": "lorazepam",
+    "entity2": "pyrimethamine",
+    "text": "Mild hepatotoxicity has been reported in some patients when <drug>lorazepam</drug> and <drug>pyrimethamine</drug> were administered concomitantly.",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "phenytoin",
+    "entity2": "ondansetron",
+    "text": "Phenytoin, Carbamazepine, and Rifampicin: In patients treated with potent inducers of CYP3A4 (i.e., <drug>phenytoin</drug>, carbamazepine, and rifampicin), the clearance of <drug>ondansetron</drug> was significantly increased and ondansetron blood concentrations were decreased. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "phenytoin",
+    "entity2": "ondansetron",
+    "text": "Phenytoin, Carbamazepine, and Rifampicin: In patients treated with potent inducers of CYP3A4 (i.e., <drug>phenytoin</drug>, carbamazepine, and rifampicin), the clearance of ondansetron was significantly increased and <drug>ondansetron</drug> blood concentrations were decreased. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "carbamazepine",
+    "entity2": "ondansetron",
+    "text": "Phenytoin, Carbamazepine, and Rifampicin: In patients treated with potent inducers of CYP3A4 (i.e., phenytoin, <drug>carbamazepine</drug>, and rifampicin), the clearance of <drug>ondansetron</drug> was significantly increased and ondansetron blood concentrations were decreased. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "carbamazepine",
+    "entity2": "ondansetron",
+    "text": "Phenytoin, Carbamazepine, and Rifampicin: In patients treated with potent inducers of CYP3A4 (i.e., phenytoin, <drug>carbamazepine</drug>, and rifampicin), the clearance of ondansetron was significantly increased and <drug>ondansetron</drug> blood concentrations were decreased. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "rifampicin",
+    "entity2": "ondansetron",
+    "text": "Phenytoin, Carbamazepine, and Rifampicin: In patients treated with potent inducers of CYP3A4 (i.e., phenytoin, carbamazepine, and <drug>rifampicin</drug>), the clearance of <drug>ondansetron</drug> was significantly increased and ondansetron blood concentrations were decreased. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "rifampicin",
+    "entity2": "ondansetron",
+    "text": "Phenytoin, Carbamazepine, and Rifampicin: In patients treated with potent inducers of CYP3A4 (i.e., phenytoin, carbamazepine, and <drug>rifampicin</drug>), the clearance of ondansetron was significantly increased and <drug>ondansetron</drug> blood concentrations were decreased. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 0,
+    "label_name": "effect",
+    "entity1": "ondansetron",
+    "entity2": "tramadol",
+    "text": "However, on the basis of available data, no dosage adjustment for ondansetron is recommended for patients on these drugs.1,3  Tramadol: Although no pharmacokinetic drug interaction between ondansetron and tramadol has been observed, data from 2 small studies indicate that <drug>ondansetron</drug> may be associated with an increase in patient controlled administration of <drug>tramadol</drug>.4,5  Chemotherapy: Tumor response to chemotherapy in the P 388 mouse leukemia model is not affected by ondansetron. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "alcohol",
+    "entity2": "mirtazapine",
+    "text": "Alcohol: Concomitant administration of <drug>alcohol</drug> (equivalent to 60 g) had a minimal effect on plasma levels of <drug>mirtazapine</drug> (15 mg) in 6 healthy male subjects. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "diazepam",
+    "entity2": "mirtazapine",
+    "text": "Accordingly, patients should be advised to avoid alcohol while taking REMERON SolTab. Diazepam: Concomitant administration of <drug>diazepam</drug> (15 mg) had a minimal effect on plasma levels of <drug>mirtazapine</drug> (15 mg) in 12 healthy subjects. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "itraconazole",
+    "entity2": "oxybutynin",
+    "text": "Other inhibitors of the cytochrome P450 3A4 enzyme system, such as antimycotic agents (e.g., <drug>itraconazole</drug> and miconazole) or macrolide antibiotics (e.g., erythromycin and clarithromycin), may alter <drug>oxybutynin</drug> mean pharmacokinetic parameters (i.e., Cmax and AUC). ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "miconazole",
+    "entity2": "oxybutynin",
+    "text": "Other inhibitors of the cytochrome P450 3A4 enzyme system, such as antimycotic agents (e.g., itraconazole and <drug>miconazole</drug>) or macrolide antibiotics (e.g., erythromycin and clarithromycin), may alter <drug>oxybutynin</drug> mean pharmacokinetic parameters (i.e., Cmax and AUC). ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "erythromycin",
+    "entity2": "oxybutynin",
+    "text": "Other inhibitors of the cytochrome P450 3A4 enzyme system, such as antimycotic agents (e.g., itraconazole and miconazole) or macrolide antibiotics (e.g., <drug>erythromycin</drug> and clarithromycin), may alter <drug>oxybutynin</drug> mean pharmacokinetic parameters (i.e., Cmax and AUC). ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "clarithromycin",
+    "entity2": "oxybutynin",
+    "text": "Other inhibitors of the cytochrome P450 3A4 enzyme system, such as antimycotic agents (e.g., itraconazole and miconazole) or macrolide antibiotics (e.g., erythromycin and <drug>clarithromycin</drug>), may alter <drug>oxybutynin</drug> mean pharmacokinetic parameters (i.e., Cmax and AUC). ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 0,
+    "label_name": "effect",
+    "entity1": "Caffeine",
+    "entity2": "levomepromazine",
+    "text": "<drug>Caffeine</drug> and/or stimulantes of the ephedrine/amphetamine type may counteract the specific actions of <drug>levomepromazine</drug>. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 0,
+    "label_name": "effect",
+    "entity1": "ephedrine",
+    "entity2": "levomepromazine",
+    "text": "Caffeine and/or stimulantes of the <drug>ephedrine</drug>/amphetamine type may counteract the specific actions of <drug>levomepromazine</drug>. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 0,
+    "label_name": "effect",
+    "entity1": "amphetamine",
+    "entity2": "levomepromazine",
+    "text": "Caffeine and/or stimulantes of the ephedrine/<drug>amphetamine</drug> type may counteract the specific actions of <drug>levomepromazine</drug>. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 2,
+    "label_name": "advise",
+    "entity1": "methyldopa",
+    "entity2": "lithium",
+    "text": "When <drug>methyldopa</drug> and <drug>lithium</drug> are given concomitantly the patient should be carefully monitored for symptoms of lithium toxicity. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "methyldopa",
+    "entity2": "ferrous sulfate",
+    "text": "Several studies demonstrate a decrease in the bioavailability of <drug>methyldopa</drug> when it is ingested with <drug>ferrous sulfate</drug> or ferrous gluconate. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "methyldopa",
+    "entity2": "ferrous gluconate",
+    "text": "Several studies demonstrate a decrease in the bioavailability of <drug>methyldopa</drug> when it is ingested with ferrous sulfate or <drug>ferrous gluconate</drug>. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 2,
+    "label_name": "advise",
+    "entity1": "methyldopa",
+    "entity2": "ferrous sulfate",
+    "text": "Coadministration of <drug>methyldopa</drug> with <drug>ferrous sulfate</drug> or ferrous gluconate is not recommended. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 2,
+    "label_name": "advise",
+    "entity1": "methyldopa",
+    "entity2": "ferrous gluconate",
+    "text": "Coadministration of <drug>methyldopa</drug> with ferrous sulfate or <drug>ferrous gluconate</drug> is not recommended. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 0,
+    "label_name": "effect",
+    "entity1": "trimetrexate",
+    "entity2": "erythromycin",
+    "text": "Agents that might be coadministered with <drug>trimetrexate</drug> in AIDS patients for other indications that could elicit this activity include <drug>erythromycin</drug>, rifampin, rifabutin, ketoconazole, and fluconazole. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 0,
+    "label_name": "effect",
+    "entity1": "trimetrexate",
+    "entity2": "rifampin",
+    "text": "Agents that might be coadministered with <drug>trimetrexate</drug> in AIDS patients for other indications that could elicit this activity include erythromycin, <drug>rifampin</drug>, rifabutin, ketoconazole, and fluconazole. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 0,
+    "label_name": "effect",
+    "entity1": "trimetrexate",
+    "entity2": "rifabutin",
+    "text": "Agents that might be coadministered with <drug>trimetrexate</drug> in AIDS patients for other indications that could elicit this activity include erythromycin, rifampin, <drug>rifabutin</drug>, ketoconazole, and fluconazole. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 0,
+    "label_name": "effect",
+    "entity1": "trimetrexate",
+    "entity2": "ketoconazole",
+    "text": "Agents that might be coadministered with <drug>trimetrexate</drug> in AIDS patients for other indications that could elicit this activity include erythromycin, rifampin, rifabutin, <drug>ketoconazole</drug>, and fluconazole. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 0,
+    "label_name": "effect",
+    "entity1": "trimetrexate",
+    "entity2": "fluconazole",
+    "text": "Agents that might be coadministered with <drug>trimetrexate</drug> in AIDS patients for other indications that could elicit this activity include erythromycin, rifampin, rifabutin, ketoconazole, and <drug>fluconazole</drug>. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "cimetidine",
+    "entity2": "trimetrexate",
+    "text": "In vitro perfusion of isolated rat liver has shown that <drug>cimetidine</drug> caused a significant reduction in <drug>trimetrexate</drug> metabolism and that acetaminophen altered the relative concentration of trimetrexate metabolites possibly by competing for sulfate metabolites. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "clotrimazole",
+    "entity2": "trimetrexate",
+    "text": "Based on an in vitro rat liver model, nitrogen substituted imidazole drugs (<drug>clotrimazole</drug>, ketoconazole, miconazole) were potent, non-competitive inhibitors of <drug>trimetrexate</drug> metabolism. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "ketoconazole",
+    "entity2": "trimetrexate",
+    "text": "Based on an in vitro rat liver model, nitrogen substituted imidazole drugs (clotrimazole, <drug>ketoconazole</drug>, miconazole) were potent, non-competitive inhibitors of <drug>trimetrexate</drug> metabolism. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "miconazole",
+    "entity2": "trimetrexate",
+    "text": "Based on an in vitro rat liver model, nitrogen substituted imidazole drugs (clotrimazole, ketoconazole, <drug>miconazole</drug>) were potent, non-competitive inhibitors of <drug>trimetrexate</drug> metabolism. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "megestrol acetate",
+    "entity2": "indinavir",
+    "text": "A pharmacokinetic study demonstrated that coadministration of <drug>megestrol acetate</drug> and <drug>indinavir</drug> results in a significant decrease in the pharmacokinetic parameters (~36% for Cmax and ~28% for AUC) of indinavir. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 2,
+    "label_name": "advise",
+    "entity1": "indinavir",
+    "entity2": "megestrol acetate",
+    "text": "Administration of a higher dose of <drug>indinavir</drug> should be considered when coadministering with <drug>megestrol acetate</drug>. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 0,
+    "label_name": "effect",
+    "entity1": "Mephenytoin",
+    "entity2": "warfarin",
+    "text": "<drug>Mephenytoin</drug> may also affect the effects of other drugs, which include some steroid medications, <drug>warfarin</drug>, certain heart medicines, birth control pills, anti-infective medicines, furosemide and theophylline Please note that Mephenytoin may interact with other drugs that are not listed here.",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 0,
+    "label_name": "effect",
+    "entity1": "Mephenytoin",
+    "entity2": "furosemide",
+    "text": "<drug>Mephenytoin</drug> may also affect the effects of other drugs, which include some steroid medications, warfarin, certain heart medicines, birth control pills, anti-infective medicines, <drug>furosemide</drug> and theophylline Please note that Mephenytoin may interact with other drugs that are not listed here.",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 0,
+    "label_name": "effect",
+    "entity1": "Mephenytoin",
+    "entity2": "theophylline",
+    "text": "<drug>Mephenytoin</drug> may also affect the effects of other drugs, which include some steroid medications, warfarin, certain heart medicines, birth control pills, anti-infective medicines, furosemide and <drug>theophylline</drug> Please note that Mephenytoin may interact with other drugs that are not listed here.",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 3,
+    "label_name": "int",
+    "entity1": "norepinephrine",
+    "entity2": "sodium bicarbonate",
+    "text": "<drug>norepinephrine</drug> and dobutamine are incompatible with <drug>sodium bicarbonate</drug> solution. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 3,
+    "label_name": "int",
+    "entity1": "dobutamine",
+    "entity2": "sodium bicarbonate",
+    "text": "norepinephrine and <drug>dobutamine</drug> are incompatible with <drug>sodium bicarbonate</drug> solution. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "Probenecid",
+    "entity2": "meropenem",
+    "text": "<drug>Probenecid</drug> competes with <drug>meropenem</drug> for active tubular secretion and thus inhibits the renal excretion of meropenem. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 2,
+    "label_name": "advise",
+    "entity1": "probenecid",
+    "entity2": "meropenem",
+    "text": "Therefore, the coadministration of <drug>probenecid</drug> with <drug>meropenem</drug> is not recommended. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "meropenem",
+    "entity2": "valproic acid",
+    "text": "There is evidence that <drug>meropenem</drug> may reduce serum levels of <drug>valproic acid</drug> to subtherapeutic levels (therapeutic range considered to be 50 to 100    g/mL total valproate).",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 2,
+    "label_name": "advise",
+    "entity1": "Scopolamine",
+    "entity2": "alcohol",
+    "text": "<drug>Scopolamine</drug> should be used with care in patients taking other drugs that are capable of causing CNS effects such as sedatives, tranquilizers, or <drug>alcohol</drug>. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "tolbutamide",
+    "entity2": "teniposide",
+    "text": "In a study in which 34 different drugs were tested, therapeutically relevant concentrations of <drug>tolbutamide</drug>, sodium salicylate and sulfamethizole displaced protein-bound <drug>teniposide</drug> in fresh human serum to a small but significant extent. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "sodium salicylate",
+    "entity2": "teniposide",
+    "text": "In a study in which 34 different drugs were tested, therapeutically relevant concentrations of tolbutamide, <drug>sodium salicylate</drug> and sulfamethizole displaced protein-bound <drug>teniposide</drug> in fresh human serum to a small but significant extent. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "sulfamethizole",
+    "entity2": "teniposide",
+    "text": "In a study in which 34 different drugs were tested, therapeutically relevant concentrations of tolbutamide, sodium salicylate and <drug>sulfamethizole</drug> displaced protein-bound <drug>teniposide</drug> in fresh human serum to a small but significant extent. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "methotrexate",
+    "entity2": "teniposide",
+    "text": "An increase in intracellular levels of <drug>methotrexate</drug> was observed in vitro in the presence of <drug>teniposide</drug>.",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "Ethanol",
+    "entity2": "abacavir",
+    "text": "<drug>Ethanol</drug> decreases the elimination of <drug>abacavir</drug> causing an increase in overall exposure . The addition of methadone has no clinically significant effect on the pharmacokinetic properties of abacavir. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 0,
+    "label_name": "effect",
+    "entity1": "pantoprazole",
+    "entity2": "warfarin",
+    "text": "There have been postmarketing reports of increased INR and prothrombin time in patients receiving proton pump inhibitors, including <drug>pantoprazole</drug>, and <drug>warfarin</drug> concomitantly. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "pantoprazole",
+    "entity2": "ketoconazole",
+    "text": "Because of profound and long lasting inhibition of gastric acid secretion, <drug>pantoprazole</drug> may interfere with absorption of drugs where gastric pH is an important determinant of their bioavailability (eg, <drug>ketoconazole</drug>, ampicillin esters, and iron salts). ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "pantoprazole",
+    "entity2": "ampicillin",
+    "text": "Because of profound and long lasting inhibition of gastric acid secretion, <drug>pantoprazole</drug> may interfere with absorption of drugs where gastric pH is an important determinant of their bioavailability (eg, ketoconazole, <drug>ampicillin</drug> esters, and iron salts). ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "pantoprazole",
+    "entity2": "iron",
+    "text": "Because of profound and long lasting inhibition of gastric acid secretion, <drug>pantoprazole</drug> may interfere with absorption of drugs where gastric pH is an important determinant of their bioavailability (eg, ketoconazole, ampicillin esters, and <drug>iron</drug> salts). ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 0,
+    "label_name": "effect",
+    "entity1": "Triprolidine",
+    "entity2": "alcohol",
+    "text": "<drug>Triprolidine</drug> may enhance the sedative effects of central nervous system depressants including <drug>alcohol</drug>, barbiturates, hypnotics, narcotic analgesics, sedatives, and tranquillisers. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 0,
+    "label_name": "effect",
+    "entity1": "atropine",
+    "entity2": "triprolidine",
+    "text": "The effects of anticholinergic drugs, such as <drug>atropine</drug> and tricyclic antidepressants may be enhanced by the concomitant administration of <drug>triprolidine</drug>. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 3,
+    "label_name": "int",
+    "entity1": "nondepolarizing agents",
+    "entity2": "bacitracin",
+    "text": "Other drugs which may enhance the neuromuscular blocking action of <drug>nondepolarizing agents</drug> such as MIVACRON include certain antibiotics (e.g., aminoglycosides, tetracyclines, <drug>bacitracin</drug>, polymyxins, lincomycin, clindamycin, colistin, and sodium colistimethate), magnesium salts, lithium, local anesthetics, procainamide, and quinidine. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 3,
+    "label_name": "int",
+    "entity1": "nondepolarizing agents",
+    "entity2": "lincomycin",
+    "text": "Other drugs which may enhance the neuromuscular blocking action of <drug>nondepolarizing agents</drug> such as MIVACRON include certain antibiotics (e.g., aminoglycosides, tetracyclines, bacitracin, polymyxins, <drug>lincomycin</drug>, clindamycin, colistin, and sodium colistimethate), magnesium salts, lithium, local anesthetics, procainamide, and quinidine. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 3,
+    "label_name": "int",
+    "entity1": "nondepolarizing agents",
+    "entity2": "clindamycin",
+    "text": "Other drugs which may enhance the neuromuscular blocking action of <drug>nondepolarizing agents</drug> such as MIVACRON include certain antibiotics (e.g., aminoglycosides, tetracyclines, bacitracin, polymyxins, lincomycin, <drug>clindamycin</drug>, colistin, and sodium colistimethate), magnesium salts, lithium, local anesthetics, procainamide, and quinidine. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 3,
+    "label_name": "int",
+    "entity1": "nondepolarizing agents",
+    "entity2": "colistin",
+    "text": "Other drugs which may enhance the neuromuscular blocking action of <drug>nondepolarizing agents</drug> such as MIVACRON include certain antibiotics (e.g., aminoglycosides, tetracyclines, bacitracin, polymyxins, lincomycin, clindamycin, <drug>colistin</drug>, and sodium colistimethate), magnesium salts, lithium, local anesthetics, procainamide, and quinidine. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 3,
+    "label_name": "int",
+    "entity1": "nondepolarizing agents",
+    "entity2": "sodium colistimethate",
+    "text": "Other drugs which may enhance the neuromuscular blocking action of <drug>nondepolarizing agents</drug> such as MIVACRON include certain antibiotics (e.g., aminoglycosides, tetracyclines, bacitracin, polymyxins, lincomycin, clindamycin, colistin, and <drug>sodium colistimethate</drug>), magnesium salts, lithium, local anesthetics, procainamide, and quinidine. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 3,
+    "label_name": "int",
+    "entity1": "nondepolarizing agents",
+    "entity2": "lithium",
+    "text": "Other drugs which may enhance the neuromuscular blocking action of <drug>nondepolarizing agents</drug> such as MIVACRON include certain antibiotics (e.g., aminoglycosides, tetracyclines, bacitracin, polymyxins, lincomycin, clindamycin, colistin, and sodium colistimethate), magnesium salts, <drug>lithium</drug>, local anesthetics, procainamide, and quinidine. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 3,
+    "label_name": "int",
+    "entity1": "nondepolarizing agents",
+    "entity2": "procainamide",
+    "text": "Other drugs which may enhance the neuromuscular blocking action of <drug>nondepolarizing agents</drug> such as MIVACRON include certain antibiotics (e.g., aminoglycosides, tetracyclines, bacitracin, polymyxins, lincomycin, clindamycin, colistin, and sodium colistimethate), magnesium salts, lithium, local anesthetics, <drug>procainamide</drug>, and quinidine. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 3,
+    "label_name": "int",
+    "entity1": "nondepolarizing agents",
+    "entity2": "quinidine",
+    "text": "Other drugs which may enhance the neuromuscular blocking action of <drug>nondepolarizing agents</drug> such as MIVACRON include certain antibiotics (e.g., aminoglycosides, tetracyclines, bacitracin, polymyxins, lincomycin, clindamycin, colistin, and sodium colistimethate), magnesium salts, lithium, local anesthetics, procainamide, and <drug>quinidine</drug>. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "methsuximide",
+    "entity2": "phenytoin",
+    "text": "Since Celontin (methsuximide) may interact with concurrently administered antiepileptic drugs, periodic serum level determinations of these drugs may be necessary (eg <drug>methsuximide</drug> may increase the plasma concentrations of <drug>phenytoin</drug> and phenobarbital).",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "methsuximide",
+    "entity2": "phenobarbital",
+    "text": "Since Celontin (methsuximide) may interact with concurrently administered antiepileptic drugs, periodic serum level determinations of these drugs may be necessary (eg <drug>methsuximide</drug> may increase the plasma concentrations of phenytoin and <drug>phenobarbital</drug>).",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "vigabatrin",
+    "entity2": "carbamazepine",
+    "text": "A study published in 2002 found that <drug>vigabatrin</drug> causes a statistically significant increase in plasma clearance of <drug>carbamazepine</drug>. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "vigabatrin",
+    "entity2": "phenytoin",
+    "text": "In 1984, Drs Rimmer and Richens at the University of Wales reported that administering <drug>vigabatrin</drug> with <drug>phenytoin</drug> lowered the serum phenytoin concentration in patients with treatment-resistant epilepsy. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "folic acid",
+    "entity2": "sulfasalazine",
+    "text": "Reduced absorption of <drug>folic acid</drug> and digoxin have been reported when those agents were administered concomitantly with <drug>sulfasalazine</drug>. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "digoxin",
+    "entity2": "sulfasalazine",
+    "text": "Reduced absorption of folic acid and <drug>digoxin</drug> have been reported when those agents were administered concomitantly with <drug>sulfasalazine</drug>. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "Streptozocin",
+    "entity2": "doxorubicin",
+    "text": "<drug>Streptozocin</drug> has been reported to prolong the elimination half-life of <drug>doxorubicin</drug> and may lead to severe bone marrow suppression; ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 0,
+    "label_name": "effect",
+    "entity1": "streptozocin",
+    "entity2": "phenytoin",
+    "text": "The concurrent use of <drug>streptozocin</drug> and <drug>phenytoin</drug> has been reported in one case to result in reduced streptozocin cytotoxicity.    ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "cholestyramine",
+    "entity2": "ezetimibe",
+    "text": "Cholestyramine: Concomitant <drug>cholestyramine</drug> administration decreased the mean AUC of total <drug>ezetimibe</drug> approximately 55%. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 0,
+    "label_name": "effect",
+    "entity1": "ezetimibe",
+    "entity2": "cholestyramine",
+    "text": "The incremental LDL-C reduction due to adding <drug>ezetimibe</drug> to <drug>cholestyramine</drug> may be reduced by this interaction. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "fenofibrate",
+    "entity2": "ezetimibe",
+    "text": "Fenofibrate: In a pharmacokinetic study, concomitant <drug>fenofibrate</drug> administration increased total <drug>ezetimibe</drug> concentrations approximately 1.5-fold. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "ezetimibe",
+    "entity2": "cyclosporine",
+    "text": "Cyclosporine: The total <drug>ezetimibe</drug> level increased 12-fold in one renal transplant patient receiving multiple medications, including <drug>cyclosporine</drug>. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 2,
+    "label_name": "advise",
+    "entity1": "ezetimibe",
+    "entity2": "cyclosporine",
+    "text": "Patients who take both <drug>ezetimibe</drug> and <drug>cyclosporine</drug> should be carefully monitored. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 0,
+    "label_name": "effect",
+    "entity1": "Zidovudine",
+    "entity2": "stavudine",
+    "text": "<drug>Zidovudine</drug> competitively inhibits the intracellular phosphorylation of <drug>stavudine</drug>. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 0,
+    "label_name": "effect",
+    "entity1": "stavudine",
+    "entity2": "doxorubicin",
+    "text": "In vitro data indicate that the phosphorylation of <drug>stavudine</drug> is also inhibited at relevant concentrations by <drug>doxorubicin</drug> and ribavirin. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 0,
+    "label_name": "effect",
+    "entity1": "stavudine",
+    "entity2": "ribavirin",
+    "text": "In vitro data indicate that the phosphorylation of <drug>stavudine</drug> is also inhibited at relevant concentrations by doxorubicin and <drug>ribavirin</drug>. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 0,
+    "label_name": "effect",
+    "entity1": "metronidazole",
+    "entity2": "warfarin",
+    "text": "Oral <drug>metronidazole</drug> has been reported to potentiate the anticoagulant effect of coumarin and <drug>warfarin</drug>, resulting in a prolongation of prothrombin time. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "ascorbic acid",
+    "entity2": "bishydroxycoumarin",
+    "text": "Limited evidence suggests that <drug>ascorbic acid</drug> may influence the intensity and duration of action of <drug>bishydroxycoumarin</drug>.",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "Terbinafine",
+    "entity2": "caffeine",
+    "text": "<drug>Terbinafine</drug> decreases the clearance of <drug>caffeine</drug> by 19%. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "Terbinafine",
+    "entity2": "cyclosporine",
+    "text": "<drug>Terbinafine</drug> increases the clearance of <drug>cyclosporine</drug> by 15%. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 0,
+    "label_name": "effect",
+    "entity1": "terbinafine",
+    "entity2": "warfarin",
+    "text": "There have been spontaneous reports of increase or decrease in prothrombin times in patients concomitantly taking oral <drug>terbinafine</drug> and <drug>warfarin</drug>, however, a causal relationship between LAMISIL    Tablets and these changes has not been established. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "Terbinafine",
+    "entity2": "rifampin",
+    "text": "<drug>Terbinafine</drug> clearance is increased 100% by <drug>rifampin</drug>, a CyP450 enzyme inducer, and decreased 33% by cimetidine, a CyP450 enzyme inhibitor. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "Terbinafine",
+    "entity2": "cimetidine",
+    "text": "<drug>Terbinafine</drug> clearance is increased 100% by rifampin, a CyP450 enzyme inducer, and decreased 33% by <drug>cimetidine</drug>, a CyP450 enzyme inhibitor. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 0,
+    "label_name": "effect",
+    "entity1": "Nalidixic acid",
+    "entity2": "melphalan",
+    "text": "DRUG INTERACTIONS  There are no known drug/drug interactions with oral ALKERAN  Vaccinations with live organism vaccines are not recommended in immunocompromised individuals  <drug>Nalidixic acid</drug> together with high-dose intravenous <drug>melphalan</drug> has caused deaths in children due to haemorrhagic enterocolitis.  ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 0,
+    "label_name": "effect",
+    "entity1": "melphalan",
+    "entity2": "cyclosporin",
+    "text": "Impaired renal function has been described in bone marrow transplant patients who were conditioned with high-dose intravenous <drug>melphalan</drug> and who subsequently received <drug>cyclosporin</drug> to prevent graft-versus-host disease",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "oxandrolone",
+    "entity2": "warfarin",
+    "text": "Warfarin: A multidose study of <drug>oxandrolone</drug>, given as 5 or 10 mg BID in 15 healthy subjects concurrently treated with <drug>warfarin</drug>, resulted in a mean increase in S-warfarin half-life from 26 to 48 hours and AUC from 4.55 to 12.08 ng*hr/mL: similar increases in R-warfarin half-life and AUC were also detected. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 2,
+    "label_name": "advise",
+    "entity1": "oxandrolone",
+    "entity2": "warfarin",
+    "text": "When <drug>oxandrolone</drug> therapy is initiated in a patient already receiving treatment with <drug>warfarin</drug>, the INR or prothrombin time (PT) should be monitored closely and the dose of warfarin adjusted as necessary until a stable target INR or PT has been achieved. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 2,
+    "label_name": "advise",
+    "entity1": "warfarin",
+    "entity2": "oxandrolone",
+    "text": "Furthermore, in patients receiving both drugs, careful monitoring of the INR or PT, and adjustment of the <drug>warfarin</drug> dosage if indicated are recommended when the <drug>oxandrolone</drug> dose is changed or discontinued. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 0,
+    "label_name": "effect",
+    "entity1": "sulfamethoxazole",
+    "entity2": "warfarin",
+    "text": "It has been reported that <drug>sulfamethoxazole</drug> may prolong the prothrombin time in patients who are receiving the anticoagulant <drug>warfarin</drug>. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "Sulfamethoxazole",
+    "entity2": "phenytoin",
+    "text": "<drug>Sulfamethoxazole</drug> may inhibit the hepatic metabolism of <drug>phenytoin</drug>. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "sulfamethoxazole",
+    "entity2": "phenytoin",
+    "text": "At a 1.6-g dose, <drug>sulfamethoxazole</drug> produced a slight but significant increase in the half-life of <drug>phenytoin</drug> but did not produce a corresponding decrease in the metabolic clearance rate. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 2,
+    "label_name": "advise",
+    "entity1": "ergotamine",
+    "entity2": "sumatriptan",
+    "text": "Because there is a theoretical basis that these effects may be additive, use of <drug>ergotamine</drug>-containing or ergot-type medications (like dihydroergotamine or methysergide) and <drug>sumatriptan</drug> within 24 hours of each other should be avoided. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 2,
+    "label_name": "advise",
+    "entity1": "dihydroergotamine",
+    "entity2": "sumatriptan",
+    "text": "Because there is a theoretical basis that these effects may be additive, use of ergotamine-containing or ergot-type medications (like <drug>dihydroergotamine</drug> or methysergide) and <drug>sumatriptan</drug> within 24 hours of each other should be avoided. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 2,
+    "label_name": "advise",
+    "entity1": "methysergide",
+    "entity2": "sumatriptan",
+    "text": "Because there is a theoretical basis that these effects may be additive, use of ergotamine-containing or ergot-type medications (like dihydroergotamine or <drug>methysergide</drug>) and <drug>sumatriptan</drug> within 24 hours of each other should be avoided. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 0,
+    "label_name": "effect",
+    "entity1": "fluoxetine",
+    "entity2": "sumatriptan",
+    "text": "Therefore, the use of sumatriptan succinate tablets in patients receiving MAO-A inhibitors is contraindicated . Selective serotonin reuptake inhibitors (SSRIs) (e.g., <drug>fluoxetine</drug>, fluvoxamine, paroxetine, sertraline) have been reported, rarely, to cause weakness, hyperreflexia, and incoordination when coadministered with <drug>sumatriptan</drug>. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 0,
+    "label_name": "effect",
+    "entity1": "fluvoxamine",
+    "entity2": "sumatriptan",
+    "text": "Therefore, the use of sumatriptan succinate tablets in patients receiving MAO-A inhibitors is contraindicated . Selective serotonin reuptake inhibitors (SSRIs) (e.g., fluoxetine, <drug>fluvoxamine</drug>, paroxetine, sertraline) have been reported, rarely, to cause weakness, hyperreflexia, and incoordination when coadministered with <drug>sumatriptan</drug>. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 0,
+    "label_name": "effect",
+    "entity1": "paroxetine",
+    "entity2": "sumatriptan",
+    "text": "Therefore, the use of sumatriptan succinate tablets in patients receiving MAO-A inhibitors is contraindicated . Selective serotonin reuptake inhibitors (SSRIs) (e.g., fluoxetine, fluvoxamine, <drug>paroxetine</drug>, sertraline) have been reported, rarely, to cause weakness, hyperreflexia, and incoordination when coadministered with <drug>sumatriptan</drug>. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 0,
+    "label_name": "effect",
+    "entity1": "sertraline",
+    "entity2": "sumatriptan",
+    "text": "Therefore, the use of sumatriptan succinate tablets in patients receiving MAO-A inhibitors is contraindicated . Selective serotonin reuptake inhibitors (SSRIs) (e.g., fluoxetine, fluvoxamine, paroxetine, <drug>sertraline</drug>) have been reported, rarely, to cause weakness, hyperreflexia, and incoordination when coadministered with <drug>sumatriptan</drug>. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 3,
+    "label_name": "int",
+    "entity1": "alcohol",
+    "entity2": "phentermine hydrochloride",
+    "text": "Concomitant use of <drug>alcohol</drug> with <drug>phentermine hydrochloride</drug> may result in an adverse drug interaction.",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 0,
+    "label_name": "effect",
+    "entity1": "ketoconazole",
+    "entity2": "terfenadine",
+    "text": "Ketoconazole: Spontaneous adverse reaction reports of patients taking concomitant <drug>ketoconazole</drug> with recommended doses of <drug>terfenadine</drug> demonstrate QT interval prolongation and rare serious cardiac events, e.g. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "ketoconazole",
+    "entity2": "terfenadine",
+    "text": "Pharmacokinetic data indicate that <drug>ketoconazole</drug> markedly inhibits the metabolism of <drug>terfenadine</drug>, resulting in elevated plasma terfenadine levels. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 2,
+    "label_name": "advise",
+    "entity1": "ketoconazole",
+    "entity2": "terfenadine",
+    "text": "Concomitant administration of <drug>ketoconazole</drug> and <drug>terfenadine</drug> is contraindicated. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "terfenadine",
+    "entity2": "itraconazole",
+    "text": "Itraconazole: Torsades de pointes and elevated parent terfenadine levels have been reported during concomitant use of <drug>terfenadine</drug> and <drug>itraconazole</drug> in clinical trials of itraconazole and from foreign post-marketing sources. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 2,
+    "label_name": "advise",
+    "entity1": "itraconazole",
+    "entity2": "terfenadine",
+    "text": "Concomitant administration of <drug>itraconazole</drug> and <drug>terfenadine</drug> is contraindicated. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 2,
+    "label_name": "advise",
+    "entity1": "fluconazole",
+    "entity2": "terfenadine",
+    "text": "Due to the chemical similarity of other azole-type antifungal agents (including <drug>fluconazole</drug>, metronidazole, and miconazole) to ketoconazole, and itraconazole, concomitant use of these products with <drug>terfenadine</drug> is not recommended pending full examination of potential interactions. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 2,
+    "label_name": "advise",
+    "entity1": "metronidazole",
+    "entity2": "terfenadine",
+    "text": "Due to the chemical similarity of other azole-type antifungal agents (including fluconazole, <drug>metronidazole</drug>, and miconazole) to ketoconazole, and itraconazole, concomitant use of these products with <drug>terfenadine</drug> is not recommended pending full examination of potential interactions. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 2,
+    "label_name": "advise",
+    "entity1": "miconazole",
+    "entity2": "terfenadine",
+    "text": "Due to the chemical similarity of other azole-type antifungal agents (including fluconazole, metronidazole, and <drug>miconazole</drug>) to ketoconazole, and itraconazole, concomitant use of these products with <drug>terfenadine</drug> is not recommended pending full examination of potential interactions. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "erythromycin",
+    "entity2": "terfenadine",
+    "text": "Macrolides: Clinical drug interaction studies indicate that <drug>erythromycin</drug> and clarithromycin can exert an effect on <drug>terfenadine</drug> metabolism by a mechanism which may be similar to that of ketoconazole, but to a lesser extent. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "clarithromycin",
+    "entity2": "terfenadine",
+    "text": "Macrolides: Clinical drug interaction studies indicate that erythromycin and <drug>clarithromycin</drug> can exert an effect on <drug>terfenadine</drug> metabolism by a mechanism which may be similar to that of ketoconazole, but to a lesser extent. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 2,
+    "label_name": "advise",
+    "entity1": "terfenadine",
+    "entity2": "clarithromycin",
+    "text": "Concomitant administration of <drug>terfenadine</drug> with <drug>clarithromycin</drug>, erythromycin, or troleandomycin is contraindicated: Pending full characterization of potential interactions, concomitant administration of terfenadine with other macrolide antibiotics, including azithromycin, is not recommended. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 2,
+    "label_name": "advise",
+    "entity1": "terfenadine",
+    "entity2": "erythromycin",
+    "text": "Concomitant administration of <drug>terfenadine</drug> with clarithromycin, <drug>erythromycin</drug>, or troleandomycin is contraindicated: Pending full characterization of potential interactions, concomitant administration of terfenadine with other macrolide antibiotics, including azithromycin, is not recommended. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 2,
+    "label_name": "advise",
+    "entity1": "terfenadine",
+    "entity2": "troleandomycin",
+    "text": "Concomitant administration of <drug>terfenadine</drug> with clarithromycin, erythromycin, or <drug>troleandomycin</drug> is contraindicated: Pending full characterization of potential interactions, concomitant administration of terfenadine with other macrolide antibiotics, including azithromycin, is not recommended. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 2,
+    "label_name": "advise",
+    "entity1": "terfenadine",
+    "entity2": "azithromycin",
+    "text": "Concomitant administration of terfenadine with clarithromycin, erythromycin, or troleandomycin is contraindicated: Pending full characterization of potential interactions, concomitant administration of <drug>terfenadine</drug> with other macrolide antibiotics, including <drug>azithromycin</drug>, is not recommended. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 2,
+    "label_name": "advise",
+    "entity1": "Myfortic",
+    "entity2": "cholestyramine",
+    "text": "Therefore, do not administer <drug>Myfortic</drug> with <drug>cholestyramine</drug> or other agents that may interfere with enterohepatic recirculation or drugs that may bind bile acids, for example bile acid sequestrates or oral activated charcoal, because of the potential to reduce the efficacy of Myfortic. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 2,
+    "label_name": "advise",
+    "entity1": "Myfortic",
+    "entity2": "activated charcoal",
+    "text": "Therefore, do not administer <drug>Myfortic</drug> with cholestyramine or other agents that may interfere with enterohepatic recirculation or drugs that may bind bile acids, for example bile acid sequestrates or oral <drug>activated charcoal</drug>, because of the potential to reduce the efficacy of Myfortic. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "levonorgesterol",
+    "entity2": "mycophenolate mofetil",
+    "text": "However, in a drug-drug interaction study, mean <drug>levonorgesterol</drug> AUC was decreased by 15% when coadministered with <drug>mycophenolate mofetil</drug>. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "Trimethoprim",
+    "entity2": "phenytoin",
+    "text": "<drug>Trimethoprim</drug> may inhibit the hepatic metabolism of <drug>phenytoin</drug>. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "Trimethoprim",
+    "entity2": "phenytoin",
+    "text": "<drug>Trimethoprim</drug>, given at a common clinical dosage, increased the <drug>phenytoin</drug> half-life by 51% and decreased the phenytoin metabolic clearance rate by 30%. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "Trimethoprim",
+    "entity2": "phenytoin",
+    "text": "<drug>Trimethoprim</drug>, given at a common clinical dosage, increased the phenytoin half-life by 51% and decreased the <drug>phenytoin</drug> metabolic clearance rate by 30%. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 2,
+    "label_name": "advise",
+    "entity1": "paliperidone",
+    "entity2": "alcohol",
+    "text": "Given the primary CNS effects of <drug>paliperidone</drug>, INVEGA    should be used with caution in combination with other centrally acting drugs and <drug>alcohol</drug>. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 0,
+    "label_name": "effect",
+    "entity1": "Paliperidone",
+    "entity2": "levodopa",
+    "text": "<drug>Paliperidone</drug> may antagonize the effect of <drug>levodopa</drug> and other dopamine agonists. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "Hyaluronidase",
+    "entity2": "procaine hydrochloride",
+    "text": "Hyaluronidase: <drug>Hyaluronidase</drug> may increase the diffusion rate of <drug>procaine hydrochloride</drug>, resulting in a decreased time of onset, but an increase in systemic toxicity. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "acetazolamide",
+    "entity2": "procaine hydrochloride",
+    "text": "Acetazolamide: Concurrent use of <drug>acetazolamide</drug> and <drug>procaine hydrochloride</drug> may extend the plasma half-life of procaine.",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 0,
+    "label_name": "effect",
+    "entity1": "fluconazole",
+    "entity2": "warfarin",
+    "text": "In post-marketing experience, as with other azole antifungals, bleeding events (bruising, epistaxis, gastrointestinal bleeding, hematuria, and melena) have been reported in association with increases in prothrombin time in patients receiving <drug>fluconazole</drug> concurrently with <drug>warfarin</drug>. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 2,
+    "label_name": "advise",
+    "entity1": "fluconazole",
+    "entity2": "terfenadine",
+    "text": "The combined use of <drug>fluconazole</drug> at doses of 400 mg or greater with <drug>terfenadine</drug> is contraindicated. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 2,
+    "label_name": "advise",
+    "entity1": "fluconazole",
+    "entity2": "terfenadine",
+    "text": "The coadministration of <drug>fluconazole</drug> at doses lower than 400 mg/day with <drug>terfenadine</drug> should be carefully monitored. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 0,
+    "label_name": "effect",
+    "entity1": "fluconazole",
+    "entity2": "cisapride",
+    "text": "Cisapride: There have been reports of cardiac events, including torsade de pointes in patients to whom <drug>fluconazole</drug> and <drug>cisapride</drug> were coadministered. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "fluconazole",
+    "entity2": "cisapride",
+    "text": "A controlled study found that concomitant <drug>fluconazole</drug> 200 mg once daily and <drug>cisapride</drug> 20 mg four times a day yielded a significant increase in cisapride plasma levels and prolongation of QTc interval.",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 2,
+    "label_name": "advise",
+    "entity1": "fluconazole",
+    "entity2": "cisapride",
+    "text": "The combined use of <drug>fluconazole</drug> with <drug>cisapride</drug> is contraindicated. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "fluconazole",
+    "entity2": "astemizole",
+    "text": "Astemizole: The use of <drug>fluconazole</drug> in patients concurrently taking <drug>astemizole</drug> or other drugs metabolized by the cytochrome P450 system may be associated with elevations in serum levels of these drugs. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 0,
+    "label_name": "effect",
+    "entity1": "fluconazole",
+    "entity2": "rifabutin",
+    "text": "Rifabutin: There have been reports of uveitis in patients to whom <drug>fluconazole</drug> and <drug>rifabutin</drug> were coadministered. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 2,
+    "label_name": "advise",
+    "entity1": "rifabutin",
+    "entity2": "fluconazole",
+    "text": "Patients receiving <drug>rifabutin</drug> and <drug>fluconazole</drug> concomitantly should be carefully monitored. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 0,
+    "label_name": "effect",
+    "entity1": "fluconazole",
+    "entity2": "tacrolimus",
+    "text": "Tacrolimus: There have been reports of nephrotoxicity in patients to whom <drug>fluconazole</drug> and <drug>tacrolimus</drug> were coadministered. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 2,
+    "label_name": "advise",
+    "entity1": "tacrolimus",
+    "entity2": "fluconazole",
+    "text": "Patients receiving <drug>tacrolimus</drug> and <drug>fluconazole</drug> concomitantly should be carefully monitored. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "midazolam",
+    "entity2": "fluconazole",
+    "text": "Short-acting Benzodiazepines: Following oral administration of <drug>midazolam</drug>, <drug>fluconazole</drug> resulted in substantial increases in midazolam concentrations and psychomotor effects. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 0,
+    "label_name": "effect",
+    "entity1": "midazolam",
+    "entity2": "fluconazole",
+    "text": "This effect on <drug>midazolam</drug> appears to be more pronounced following oral administration of <drug>fluconazole</drug> than with fluconazole administered intravenously. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "Fluconazole",
+    "entity2": "ethinyl estradiol",
+    "text": "<drug>Fluconazole</drug> tablets coadministered with <drug>ethinyl estradiol</drug>- and levonorgestrel-containing oral contraceptives produced an overall mean increase in ethinyl estradiol and levonorgestrel levels; ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "Fluconazole",
+    "entity2": "levonorgestrel",
+    "text": "<drug>Fluconazole</drug> tablets coadministered with ethinyl estradiol- and <drug>levonorgestrel</drug>-containing oral contraceptives produced an overall mean increase in ethinyl estradiol and levonorgestrel levels; ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "fluconazole",
+    "entity2": "ethinyl estradiol",
+    "text": "While there is evidence that <drug>fluconazole</drug> can inhibit the metabolism of <drug>ethinyl estradiol</drug> and levonorgestrel, there is no evidence that fluconazole is a net inducer of ethinyl estradiol or levonorgestrel metabolism. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "fluconazole",
+    "entity2": "levonorgestrel",
+    "text": "While there is evidence that <drug>fluconazole</drug> can inhibit the metabolism of ethinyl estradiol and <drug>levonorgestrel</drug>, there is no evidence that fluconazole is a net inducer of ethinyl estradiol or levonorgestrel metabolism. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 0,
+    "label_name": "effect",
+    "entity1": "metaraminol",
+    "entity2": "halothane",
+    "text": "Vasopressors, particularly <drug>metaraminol</drug>, may cause serious cardiac arrhythmias during <drug>halothane</drug> anesthesia and therefore should be used only with great caution or not at all. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "erythromycin",
+    "entity2": "midazolam",
+    "text": "Drugs such as <drug>erythromycin</drug>, diltiazem, verapamil, ketoconazole, fluconazole and itraconazole were shown to significantly increase the C max and AUC of orally administered <drug>midazolam</drug>. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "diltiazem",
+    "entity2": "midazolam",
+    "text": "Drugs such as erythromycin, <drug>diltiazem</drug>, verapamil, ketoconazole, fluconazole and itraconazole were shown to significantly increase the C max and AUC of orally administered <drug>midazolam</drug>. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "verapamil",
+    "entity2": "midazolam",
+    "text": "Drugs such as erythromycin, diltiazem, <drug>verapamil</drug>, ketoconazole, fluconazole and itraconazole were shown to significantly increase the C max and AUC of orally administered <drug>midazolam</drug>. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "ketoconazole",
+    "entity2": "midazolam",
+    "text": "Drugs such as erythromycin, diltiazem, verapamil, <drug>ketoconazole</drug>, fluconazole and itraconazole were shown to significantly increase the C max and AUC of orally administered <drug>midazolam</drug>. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "fluconazole",
+    "entity2": "midazolam",
+    "text": "Drugs such as erythromycin, diltiazem, verapamil, ketoconazole, <drug>fluconazole</drug> and itraconazole were shown to significantly increase the C max and AUC of orally administered <drug>midazolam</drug>. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "itraconazole",
+    "entity2": "midazolam",
+    "text": "Drugs such as erythromycin, diltiazem, verapamil, ketoconazole, fluconazole and <drug>itraconazole</drug> were shown to significantly increase the C max and AUC of orally administered <drug>midazolam</drug>. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "ritonavir",
+    "entity2": "midazolam",
+    "text": "Although not studied, the potent cytochrome P450 3A4 inhibitors <drug>ritonavir</drug> and nelfinavir may cause intense and prolonged sedation and respiratory depression due to a decrease in plasma clearance of <drug>midazolam</drug>. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "nelfinavir",
+    "entity2": "midazolam",
+    "text": "Although not studied, the potent cytochrome P450 3A4 inhibitors ritonavir and <drug>nelfinavir</drug> may cause intense and prolonged sedation and respiratory depression due to a decrease in plasma clearance of <drug>midazolam</drug>. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "rifampin",
+    "entity2": "midazolam",
+    "text": "Inducers of CYP3A4 Isozymes: Cytochrome P450 inducers, such as <drug>rifampin</drug>, carbamazepine, and phenytoin, induce metabolism and caused a markedly decreased C max and AUC of oral <drug>midazolam</drug> in adult studies. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "carbamazepine",
+    "entity2": "midazolam",
+    "text": "Inducers of CYP3A4 Isozymes: Cytochrome P450 inducers, such as rifampin, <drug>carbamazepine</drug>, and phenytoin, induce metabolism and caused a markedly decreased C max and AUC of oral <drug>midazolam</drug> in adult studies. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "phenytoin",
+    "entity2": "midazolam",
+    "text": "Inducers of CYP3A4 Isozymes: Cytochrome P450 inducers, such as rifampin, carbamazepine, and <drug>phenytoin</drug>, induce metabolism and caused a markedly decreased C max and AUC of oral <drug>midazolam</drug> in adult studies. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 2,
+    "label_name": "advise",
+    "entity1": "mazindol",
+    "entity2": "isocarboxazid",
+    "text": "You cannot take <drug>mazindol</drug> if you have taken a monoamine oxidase inhibitor (MAOI) such as <drug>isocarboxazid</drug> (Marplan), tranylcypromine (Parnate), or phenelzine (Nardil) in the last 14 days. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 2,
+    "label_name": "advise",
+    "entity1": "mazindol",
+    "entity2": "tranylcypromine",
+    "text": "You cannot take <drug>mazindol</drug> if you have taken a monoamine oxidase inhibitor (MAOI) such as isocarboxazid (Marplan), <drug>tranylcypromine</drug> (Parnate), or phenelzine (Nardil) in the last 14 days. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 2,
+    "label_name": "advise",
+    "entity1": "mazindol",
+    "entity2": "phenelzine",
+    "text": "You cannot take <drug>mazindol</drug> if you have taken a monoamine oxidase inhibitor (MAOI) such as isocarboxazid (Marplan), tranylcypromine (Parnate), or <drug>phenelzine</drug> (Nardil) in the last 14 days. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 2,
+    "label_name": "advise",
+    "entity1": "insulin",
+    "entity2": "mazindol",
+    "text": "Changes in <drug>insulin</drug> and other diabetes drug therapies may be necessary during treatment with <drug>mazindol</drug>.",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 0,
+    "label_name": "effect",
+    "entity1": "Mazindol",
+    "entity2": "guanethidine",
+    "text": "<drug>Mazindol</drug> may reduce the effects of <drug>guanethidine</drug> (Ismelin). ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 0,
+    "label_name": "effect",
+    "entity1": "Sulfamethizole",
+    "entity2": "tolbutamide",
+    "text": "<drug>Sulfamethizole</drug> may increase the effects of barbiturates, <drug>tolbutamide</drug>, and uricosurics. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "cyclosporin",
+    "entity2": "methylprednisolone",
+    "text": "Mutual inhibition of metabolism occurs with concurrent use of <drug>cyclosporin</drug> and <drug>methylprednisolone</drug>; ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 0,
+    "label_name": "effect",
+    "entity1": "methylprednisolone",
+    "entity2": "cyclosporin",
+    "text": "convulsions have been reported with concurrent use of <drug>methylprednisolone</drug> and <drug>cyclosporin</drug>. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "phenobarbital",
+    "entity2": "methylprednisolone",
+    "text": "Drugs that induce hepatic enzymes such as <drug>phenobarbital</drug>, phenytoin, and rifampin may increase the clearance of <drug>methylprednisolone</drug> and may require increased in methylprednisolone dose to achieve the desired response. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 2,
+    "label_name": "advise",
+    "entity1": "phenobarbital",
+    "entity2": "methylprednisolone",
+    "text": "Drugs that induce hepatic enzymes such as <drug>phenobarbital</drug>, phenytoin, and rifampin may increase the clearance of methylprednisolone and may require increased in <drug>methylprednisolone</drug> dose to achieve the desired response. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "phenytoin",
+    "entity2": "methylprednisolone",
+    "text": "Drugs that induce hepatic enzymes such as phenobarbital, <drug>phenytoin</drug>, and rifampin may increase the clearance of <drug>methylprednisolone</drug> and may require increased in methylprednisolone dose to achieve the desired response. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 2,
+    "label_name": "advise",
+    "entity1": "phenytoin",
+    "entity2": "methylprednisolone",
+    "text": "Drugs that induce hepatic enzymes such as phenobarbital, <drug>phenytoin</drug>, and rifampin may increase the clearance of methylprednisolone and may require increased in <drug>methylprednisolone</drug> dose to achieve the desired response. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "rifampin",
+    "entity2": "methylprednisolone",
+    "text": "Drugs that induce hepatic enzymes such as phenobarbital, phenytoin, and <drug>rifampin</drug> may increase the clearance of <drug>methylprednisolone</drug> and may require increased in methylprednisolone dose to achieve the desired response. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 2,
+    "label_name": "advise",
+    "entity1": "rifampin",
+    "entity2": "methylprednisolone",
+    "text": "Drugs that induce hepatic enzymes such as phenobarbital, phenytoin, and <drug>rifampin</drug> may increase the clearance of methylprednisolone and may require increased in <drug>methylprednisolone</drug> dose to achieve the desired response. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "troleandomycin",
+    "entity2": "methylprednisolone",
+    "text": "Drugs such as <drug>troleandomycin</drug> and ketoconazole may inhibit the metabolism of <drug>methylprednisolone</drug> and thus decrease its clearance. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "ketoconazole",
+    "entity2": "methylprednisolone",
+    "text": "Drugs such as troleandomycin and <drug>ketoconazole</drug> may inhibit the metabolism of <drug>methylprednisolone</drug> and thus decrease its clearance. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "mexiletine",
+    "entity2": "fluvoxamine",
+    "text": "In a formal, single-dose interaction study (n = 6 males) the clearance of <drug>mexiletine</drug> was decreased by 38% following the coadministration of <drug>fluvoxamine</drug>, an inhibitor of CYP1A2. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "magnesium-aluminum hydroxide",
+    "entity2": "digoxin",
+    "text": "Mexitil    does not alter serum digoxin levels but <drug>magnesium-aluminum hydroxide</drug>, when used to treat gastrointestinal symptoms due to Mexitil   , has been reported to lower serum <drug>digoxin</drug> levels. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "Alcohol",
+    "entity2": "riboflavin",
+    "text": "Interactions for Vitamin B2 (Riboflavin):  <drug>Alcohol</drug> - impairs the intestinal absorption of <drug>riboflavin</drug>",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "Probenecid",
+    "entity2": "riboflavin",
+    "text": "<drug>Probenecid</drug> - concurrent use decreases gastrointestinal absorption of <drug>riboflavin</drug>; ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 0,
+    "label_name": "effect",
+    "entity1": "riboflavin",
+    "entity2": "probenecid",
+    "text": "requirements for <drug>riboflavin</drug> may be increased in patients receiving <drug>probenecid</drug>.",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 0,
+    "label_name": "effect",
+    "entity1": "atropine",
+    "entity2": "pralidoxime",
+    "text": "When <drug>atropine</drug> and <drug>pralidoxime</drug> are used together, the signs of atropinization (flushing, mydriasis, tachycardia, dryness of the mouth and nose) may occur earlier than might be expected when atropine is used alone. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "ketoconazole",
+    "entity2": "retapamulin",
+    "text": "Co-administration of oral <drug>ketoconazole</drug> 200 mg twice daily increased retapamulin geometric mean AUC(0-24) and Cmax by 81% after topical application of <drug>retapamulin</drug> ointment, 1% on the abraded skin of healthy adult males. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 0,
+    "label_name": "effect",
+    "entity1": "Furosemide",
+    "entity2": "metolazone",
+    "text": "Diuretics: <drug>Furosemide</drug> and probably other loop diuretics given concomitantly with <drug>metolazone</drug> can cause unusually large or prolonged losses of fluid and electrolytes. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 0,
+    "label_name": "effect",
+    "entity1": "Metolazone",
+    "entity2": "norepinephrine",
+    "text": "Sympathomimetics: <drug>Metolazone</drug> may decrease arterial responsiveness to <drug>norepinephrine</drug>, but this diminution is not sufficient to preclude effectiveness of the pressor agent for therapeutic use. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 0,
+    "label_name": "effect",
+    "entity1": "Methenamine",
+    "entity2": "metolazone",
+    "text": "<drug>Methenamine</drug>: Efficacy may be decreased due to urinary alkalizing effect of <drug>metolazone</drug>. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "Cholestyramine",
+    "entity2": "raloxifene",
+    "text": "Cholestyramine: <drug>Cholestyramine</drug> causes a 60% reduction in the absorption and enterohepatic cycling of <drug>raloxifene</drug> and should not be coadministered with EVISTA. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 0,
+    "label_name": "effect",
+    "entity1": "metoclopramide",
+    "entity2": "alcohol",
+    "text": "Additive sedative effects can occur when <drug>metoclopramide</drug> is given with <drug>alcohol</drug>, sedatives, hypnotics, narcotics, or tranquilizers. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "digoxin",
+    "entity2": "metoclopramide",
+    "text": "Absorption of drugs from the stomach may be diminished (e.g., <drug>digoxin</drug>) by <drug>metoclopramide</drug>, whereas the rate and/or extent of absorption of drugs from the small bowel may be increased (e.g., acetaminophen, tetracycline, levodopa, ethanol, cyclosporine). ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "metoclopramide",
+    "entity2": "acetaminophen",
+    "text": "Absorption of drugs from the stomach may be diminished (e.g., digoxin) by <drug>metoclopramide</drug>, whereas the rate and/or extent of absorption of drugs from the small bowel may be increased (e.g., <drug>acetaminophen</drug>, tetracycline, levodopa, ethanol, cyclosporine). ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 2,
+    "label_name": "advise",
+    "entity1": "metoclopramide",
+    "entity2": "insulin",
+    "text": "Because the action of <drug>metoclopramide</drug> will influence the delivery of food to the intestines and thus the rate of absorption, <drug>insulin</drug> dosage or timing of dosage may require adjustment.",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "gemfibrozil",
+    "entity2": "rosiglitazone",
+    "text": "An inhibitor of CYP2C8 (such as <drug>gemfibrozil</drug>) may increase the AUC of <drug>rosiglitazone</drug> and an inducer of CYP2C8 (such as rifampin) may decrease the AUC of rosiglitazone. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "rifampin",
+    "entity2": "rosiglitazone",
+    "text": "An inhibitor of CYP2C8 (such as gemfibrozil) may increase the AUC of rosiglitazone and an inducer of CYP2C8 (such as <drug>rifampin</drug>) may decrease the AUC of <drug>rosiglitazone</drug>. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "Cimetidine",
+    "entity2": "pramipexole",
+    "text": "Cimetidine: <drug>Cimetidine</drug>, a known inhibitor of renal tubular secretion of organic bases via the cationic transport system, caused a 50% increase in <drug>pramipexole</drug> AUC and a 40% increase in half-life (N= 12). ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "cimetidine",
+    "entity2": "pramipexole",
+    "text": "Other drugs eliminated via renal secretion: Population pharmacokinetic analysis suggests that coadministration of drugs that are secreted by the cationic transport system (e.g., <drug>cimetidine</drug>, ranitidine, diltiazem, triamterene, verapamil, quinidine, and quinine) decreases the oral clearance of <drug>pramipexole</drug> by about 20%, while those secreted by the anionic transport system (e.g., cephalosporins, penicillins, indomethacin, hydrochlorothiazide, and chlorpropamide) are likely to have little effect on the oral clearance of pramipexole. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "ranitidine",
+    "entity2": "pramipexole",
+    "text": "Other drugs eliminated via renal secretion: Population pharmacokinetic analysis suggests that coadministration of drugs that are secreted by the cationic transport system (e.g., cimetidine, <drug>ranitidine</drug>, diltiazem, triamterene, verapamil, quinidine, and quinine) decreases the oral clearance of <drug>pramipexole</drug> by about 20%, while those secreted by the anionic transport system (e.g., cephalosporins, penicillins, indomethacin, hydrochlorothiazide, and chlorpropamide) are likely to have little effect on the oral clearance of pramipexole. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "diltiazem",
+    "entity2": "pramipexole",
+    "text": "Other drugs eliminated via renal secretion: Population pharmacokinetic analysis suggests that coadministration of drugs that are secreted by the cationic transport system (e.g., cimetidine, ranitidine, <drug>diltiazem</drug>, triamterene, verapamil, quinidine, and quinine) decreases the oral clearance of <drug>pramipexole</drug> by about 20%, while those secreted by the anionic transport system (e.g., cephalosporins, penicillins, indomethacin, hydrochlorothiazide, and chlorpropamide) are likely to have little effect on the oral clearance of pramipexole. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "triamterene",
+    "entity2": "pramipexole",
+    "text": "Other drugs eliminated via renal secretion: Population pharmacokinetic analysis suggests that coadministration of drugs that are secreted by the cationic transport system (e.g., cimetidine, ranitidine, diltiazem, <drug>triamterene</drug>, verapamil, quinidine, and quinine) decreases the oral clearance of <drug>pramipexole</drug> by about 20%, while those secreted by the anionic transport system (e.g., cephalosporins, penicillins, indomethacin, hydrochlorothiazide, and chlorpropamide) are likely to have little effect on the oral clearance of pramipexole. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "verapamil",
+    "entity2": "pramipexole",
+    "text": "Other drugs eliminated via renal secretion: Population pharmacokinetic analysis suggests that coadministration of drugs that are secreted by the cationic transport system (e.g., cimetidine, ranitidine, diltiazem, triamterene, <drug>verapamil</drug>, quinidine, and quinine) decreases the oral clearance of <drug>pramipexole</drug> by about 20%, while those secreted by the anionic transport system (e.g., cephalosporins, penicillins, indomethacin, hydrochlorothiazide, and chlorpropamide) are likely to have little effect on the oral clearance of pramipexole. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "quinidine",
+    "entity2": "pramipexole",
+    "text": "Other drugs eliminated via renal secretion: Population pharmacokinetic analysis suggests that coadministration of drugs that are secreted by the cationic transport system (e.g., cimetidine, ranitidine, diltiazem, triamterene, verapamil, <drug>quinidine</drug>, and quinine) decreases the oral clearance of <drug>pramipexole</drug> by about 20%, while those secreted by the anionic transport system (e.g., cephalosporins, penicillins, indomethacin, hydrochlorothiazide, and chlorpropamide) are likely to have little effect on the oral clearance of pramipexole. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "quinine",
+    "entity2": "pramipexole",
+    "text": "Other drugs eliminated via renal secretion: Population pharmacokinetic analysis suggests that coadministration of drugs that are secreted by the cationic transport system (e.g., cimetidine, ranitidine, diltiazem, triamterene, verapamil, quinidine, and <drug>quinine</drug>) decreases the oral clearance of <drug>pramipexole</drug> by about 20%, while those secreted by the anionic transport system (e.g., cephalosporins, penicillins, indomethacin, hydrochlorothiazide, and chlorpropamide) are likely to have little effect on the oral clearance of pramipexole. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "indomethacin",
+    "entity2": "pramipexole",
+    "text": "Other drugs eliminated via renal secretion: Population pharmacokinetic analysis suggests that coadministration of drugs that are secreted by the cationic transport system (e.g., cimetidine, ranitidine, diltiazem, triamterene, verapamil, quinidine, and quinine) decreases the oral clearance of pramipexole by about 20%, while those secreted by the anionic transport system (e.g., cephalosporins, penicillins, <drug>indomethacin</drug>, hydrochlorothiazide, and chlorpropamide) are likely to have little effect on the oral clearance of <drug>pramipexole</drug>. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "hydrochlorothiazide",
+    "entity2": "pramipexole",
+    "text": "Other drugs eliminated via renal secretion: Population pharmacokinetic analysis suggests that coadministration of drugs that are secreted by the cationic transport system (e.g., cimetidine, ranitidine, diltiazem, triamterene, verapamil, quinidine, and quinine) decreases the oral clearance of pramipexole by about 20%, while those secreted by the anionic transport system (e.g., cephalosporins, penicillins, indomethacin, <drug>hydrochlorothiazide</drug>, and chlorpropamide) are likely to have little effect on the oral clearance of <drug>pramipexole</drug>. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "chlorpropamide",
+    "entity2": "pramipexole",
+    "text": "Other drugs eliminated via renal secretion: Population pharmacokinetic analysis suggests that coadministration of drugs that are secreted by the cationic transport system (e.g., cimetidine, ranitidine, diltiazem, triamterene, verapamil, quinidine, and quinine) decreases the oral clearance of pramipexole by about 20%, while those secreted by the anionic transport system (e.g., cephalosporins, penicillins, indomethacin, hydrochlorothiazide, and <drug>chlorpropamide</drug>) are likely to have little effect on the oral clearance of <drug>pramipexole</drug>. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 3,
+    "label_name": "int",
+    "entity1": "Vitamin B1",
+    "entity2": "Stavudine",
+    "text": "Interactions for <drug>Vitamin B1</drug> (Thiamine):  Loop Diuretics, Oral Contraceptives, <drug>Stavudine</drug>, Tricyclic Antidepressants",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 3,
+    "label_name": "int",
+    "entity1": "Thiamine",
+    "entity2": "Stavudine",
+    "text": "Interactions for Vitamin B1 (<drug>Thiamine</drug>):  Loop Diuretics, Oral Contraceptives, <drug>Stavudine</drug>, Tricyclic Antidepressants",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 3,
+    "label_name": "int",
+    "entity1": "Methscopolamine",
+    "entity2": "phenelzine",
+    "text": "<drug>Methscopolamine</drug> may interact with antidepressants (tricyclic type), MAO inhibitors (e.g., <drug>phenelzine</drug>, linezolid, tranylcypromine, isocarboxazid, selegiline, furazolidone), quinidine, amantadine, antihistamines (e.g., diphenhydramine), other anticholinergics, potassium chloride supplements, antacids, absorbent-type anti-diarrhea medicines (e.g., kaolin-pectin), phenothiazines (e.g., chlorpromazine, promethazine).",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 3,
+    "label_name": "int",
+    "entity1": "Methscopolamine",
+    "entity2": "linezolid",
+    "text": "<drug>Methscopolamine</drug> may interact with antidepressants (tricyclic type), MAO inhibitors (e.g., phenelzine, <drug>linezolid</drug>, tranylcypromine, isocarboxazid, selegiline, furazolidone), quinidine, amantadine, antihistamines (e.g., diphenhydramine), other anticholinergics, potassium chloride supplements, antacids, absorbent-type anti-diarrhea medicines (e.g., kaolin-pectin), phenothiazines (e.g., chlorpromazine, promethazine).",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 3,
+    "label_name": "int",
+    "entity1": "Methscopolamine",
+    "entity2": "tranylcypromine",
+    "text": "<drug>Methscopolamine</drug> may interact with antidepressants (tricyclic type), MAO inhibitors (e.g., phenelzine, linezolid, <drug>tranylcypromine</drug>, isocarboxazid, selegiline, furazolidone), quinidine, amantadine, antihistamines (e.g., diphenhydramine), other anticholinergics, potassium chloride supplements, antacids, absorbent-type anti-diarrhea medicines (e.g., kaolin-pectin), phenothiazines (e.g., chlorpromazine, promethazine).",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 3,
+    "label_name": "int",
+    "entity1": "Methscopolamine",
+    "entity2": "isocarboxazid",
+    "text": "<drug>Methscopolamine</drug> may interact with antidepressants (tricyclic type), MAO inhibitors (e.g., phenelzine, linezolid, tranylcypromine, <drug>isocarboxazid</drug>, selegiline, furazolidone), quinidine, amantadine, antihistamines (e.g., diphenhydramine), other anticholinergics, potassium chloride supplements, antacids, absorbent-type anti-diarrhea medicines (e.g., kaolin-pectin), phenothiazines (e.g., chlorpromazine, promethazine).",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 3,
+    "label_name": "int",
+    "entity1": "Methscopolamine",
+    "entity2": "selegiline",
+    "text": "<drug>Methscopolamine</drug> may interact with antidepressants (tricyclic type), MAO inhibitors (e.g., phenelzine, linezolid, tranylcypromine, isocarboxazid, <drug>selegiline</drug>, furazolidone), quinidine, amantadine, antihistamines (e.g., diphenhydramine), other anticholinergics, potassium chloride supplements, antacids, absorbent-type anti-diarrhea medicines (e.g., kaolin-pectin), phenothiazines (e.g., chlorpromazine, promethazine).",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 3,
+    "label_name": "int",
+    "entity1": "Methscopolamine",
+    "entity2": "furazolidone",
+    "text": "<drug>Methscopolamine</drug> may interact with antidepressants (tricyclic type), MAO inhibitors (e.g., phenelzine, linezolid, tranylcypromine, isocarboxazid, selegiline, <drug>furazolidone</drug>), quinidine, amantadine, antihistamines (e.g., diphenhydramine), other anticholinergics, potassium chloride supplements, antacids, absorbent-type anti-diarrhea medicines (e.g., kaolin-pectin), phenothiazines (e.g., chlorpromazine, promethazine).",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 3,
+    "label_name": "int",
+    "entity1": "Methscopolamine",
+    "entity2": "quinidine",
+    "text": "<drug>Methscopolamine</drug> may interact with antidepressants (tricyclic type), MAO inhibitors (e.g., phenelzine, linezolid, tranylcypromine, isocarboxazid, selegiline, furazolidone), <drug>quinidine</drug>, amantadine, antihistamines (e.g., diphenhydramine), other anticholinergics, potassium chloride supplements, antacids, absorbent-type anti-diarrhea medicines (e.g., kaolin-pectin), phenothiazines (e.g., chlorpromazine, promethazine).",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 3,
+    "label_name": "int",
+    "entity1": "Methscopolamine",
+    "entity2": "amantadine",
+    "text": "<drug>Methscopolamine</drug> may interact with antidepressants (tricyclic type), MAO inhibitors (e.g., phenelzine, linezolid, tranylcypromine, isocarboxazid, selegiline, furazolidone), quinidine, <drug>amantadine</drug>, antihistamines (e.g., diphenhydramine), other anticholinergics, potassium chloride supplements, antacids, absorbent-type anti-diarrhea medicines (e.g., kaolin-pectin), phenothiazines (e.g., chlorpromazine, promethazine).",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 3,
+    "label_name": "int",
+    "entity1": "Methscopolamine",
+    "entity2": "diphenhydramine",
+    "text": "<drug>Methscopolamine</drug> may interact with antidepressants (tricyclic type), MAO inhibitors (e.g., phenelzine, linezolid, tranylcypromine, isocarboxazid, selegiline, furazolidone), quinidine, amantadine, antihistamines (e.g., <drug>diphenhydramine</drug>), other anticholinergics, potassium chloride supplements, antacids, absorbent-type anti-diarrhea medicines (e.g., kaolin-pectin), phenothiazines (e.g., chlorpromazine, promethazine).",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 3,
+    "label_name": "int",
+    "entity1": "Methscopolamine",
+    "entity2": "potassium chloride",
+    "text": "<drug>Methscopolamine</drug> may interact with antidepressants (tricyclic type), MAO inhibitors (e.g., phenelzine, linezolid, tranylcypromine, isocarboxazid, selegiline, furazolidone), quinidine, amantadine, antihistamines (e.g., diphenhydramine), other anticholinergics, <drug>potassium chloride</drug> supplements, antacids, absorbent-type anti-diarrhea medicines (e.g., kaolin-pectin), phenothiazines (e.g., chlorpromazine, promethazine).",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 3,
+    "label_name": "int",
+    "entity1": "Methscopolamine",
+    "entity2": "kaolin",
+    "text": "<drug>Methscopolamine</drug> may interact with antidepressants (tricyclic type), MAO inhibitors (e.g., phenelzine, linezolid, tranylcypromine, isocarboxazid, selegiline, furazolidone), quinidine, amantadine, antihistamines (e.g., diphenhydramine), other anticholinergics, potassium chloride supplements, antacids, absorbent-type anti-diarrhea medicines (e.g., <drug>kaolin</drug>-pectin), phenothiazines (e.g., chlorpromazine, promethazine).",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 3,
+    "label_name": "int",
+    "entity1": "Methscopolamine",
+    "entity2": "pectin",
+    "text": "<drug>Methscopolamine</drug> may interact with antidepressants (tricyclic type), MAO inhibitors (e.g., phenelzine, linezolid, tranylcypromine, isocarboxazid, selegiline, furazolidone), quinidine, amantadine, antihistamines (e.g., diphenhydramine), other anticholinergics, potassium chloride supplements, antacids, absorbent-type anti-diarrhea medicines (e.g., kaolin-<drug>pectin</drug>), phenothiazines (e.g., chlorpromazine, promethazine).",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 3,
+    "label_name": "int",
+    "entity1": "Methscopolamine",
+    "entity2": "chlorpromazine",
+    "text": "<drug>Methscopolamine</drug> may interact with antidepressants (tricyclic type), MAO inhibitors (e.g., phenelzine, linezolid, tranylcypromine, isocarboxazid, selegiline, furazolidone), quinidine, amantadine, antihistamines (e.g., diphenhydramine), other anticholinergics, potassium chloride supplements, antacids, absorbent-type anti-diarrhea medicines (e.g., kaolin-pectin), phenothiazines (e.g., <drug>chlorpromazine</drug>, promethazine).",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 3,
+    "label_name": "int",
+    "entity1": "Methscopolamine",
+    "entity2": "promethazine",
+    "text": "<drug>Methscopolamine</drug> may interact with antidepressants (tricyclic type), MAO inhibitors (e.g., phenelzine, linezolid, tranylcypromine, isocarboxazid, selegiline, furazolidone), quinidine, amantadine, antihistamines (e.g., diphenhydramine), other anticholinergics, potassium chloride supplements, antacids, absorbent-type anti-diarrhea medicines (e.g., kaolin-pectin), phenothiazines (e.g., chlorpromazine, <drug>promethazine</drug>).",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 1,
+    "label_name": "mechanism",
+    "entity1": "ketoconazole",
+    "entity2": "mometasone furoate",
+    "text": "However, <drug>ketoconazole</drug>, a potent inhibitor of cytochrome P450 3A4, may increase plasma levels of <drug>mometasone furoate</drug> during concomitant dosing.",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 3,
+    "label_name": "int",
+    "entity1": "Vindesine",
+    "entity2": "Phenytoin",
+    "text": "<drug>Vindesine</drug> can interact with the drugs of the following categories:  - Blood dyscrasia: can cause unpredictable myelotoxicity - Bone marrow depressants: can cause a predictable dose-related myelotoxicity - Radiation therapy: may cause marrow depression - Neurotoxic medications: can cause neurologic toxicity - <drug>Phenytoin</drug>: can increase seizure activity - Live virus vaccines: may potentiate the replication of the vaccine virus, may increase the side effects of the vaccination, and decrease patient's response to the vaccine - Mitomycin-C: may cause shortness of breath and bronchospasm - Killed virus vaccines: may decrease patient's response to the vaccine",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 3,
+    "label_name": "int",
+    "entity1": "Vindesine",
+    "entity2": "Mitomycin-C",
+    "text": "<drug>Vindesine</drug> can interact with the drugs of the following categories:  - Blood dyscrasia: can cause unpredictable myelotoxicity - Bone marrow depressants: can cause a predictable dose-related myelotoxicity - Radiation therapy: may cause marrow depression - Neurotoxic medications: can cause neurologic toxicity - Phenytoin: can increase seizure activity - Live virus vaccines: may potentiate the replication of the vaccine virus, may increase the side effects of the vaccination, and decrease patient's response to the vaccine - <drug>Mitomycin-C</drug>: may cause shortness of breath and bronchospasm - Killed virus vaccines: may decrease patient's response to the vaccine",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 2,
+    "label_name": "advise",
+    "entity1": "roxithromycin",
+    "entity2": "terfenadine",
+    "text": "Although such a reaction has not been demonstrated with roxithromycin, concomitant administration of <drug>roxithromycin</drug> with <drug>terfenadine</drug> or astemizole is not recommended. ",
+    "source": "DrugBank"
+  },
+  {
+    "_id": 2,
+    "label_name": "advise",
+    "entity1": "roxithromycin",
+    "entity2": "astemizole",
+    "text": "Although such a reaction has not been demonstrated with roxithromycin, concomitant administration of <drug>roxithromycin</drug> with terfenadine or <drug>astemizole</drug> is not recommended. ",
+    "source": "DrugBank"
+  }
+]
