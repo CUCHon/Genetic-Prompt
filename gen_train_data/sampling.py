@@ -26,8 +26,14 @@ class SampleManager:
     def _update_index(self):
         n, d = self.encoded_samples.shape
         faiss.normalize_L2(self.encoded_samples)
-        self.index = faiss.IndexFlatIP(d)  # Inner Product index for cosine similarity
+        
+        
+        res = faiss.StandardGpuResources()
+        cpu_index = faiss.IndexFlatIP(d) 
+        self.index = faiss.index_cpu_to_gpu(res, 0, cpu_index)
         self.index.add(self.encoded_samples)
+        #self.index = faiss.IndexFlatIP(d)  # Inner Product index for cosine similarity
+        #self.index.add(self.encoded_samples)
 
         # Precompute distance matrix as cosine distances, adjusting sign for max distance search
         self.distance_matrix = 1 - np.dot(self.encoded_samples, self.encoded_samples.T)
