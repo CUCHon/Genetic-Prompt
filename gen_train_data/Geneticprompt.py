@@ -289,28 +289,6 @@ def main(args):
                 Genetic_prompt += f'Relation: {class_name}\n'
                 Genetic_prompt += f'Text:'
                 
-            elif args.dataset ==  'i2b2-2010':
-                prompt_input =f"You need to generate synthetic data for {args.domain} task. \n"
-                in_context_input= f"Example 1: {sample1} \n Example 2: {sample2} \n" 
-                
-
-                Genetic_prompt = f"""
-                                    Your task is to write a sentence about '{class_name}' relation between {args.entity[0]} and {args.entity[1]}. \n 
-                                    The two entities should be marked with XML-style tags as <{args.entity[0]}> {args.entity[0]} </{args.entity[0]}> and <{args.entity[1]}> {args.entity[1]} </{args.entity[1]}> respectively in your response.
-                                    The sentence should follow the requirements below: \n 
-                                        1. The sentence must discuss about the {args.entity[0]} and {args.entity[1]} with the relation {label_def}  \n 
-                                        2. The {re.sub('_', ' ', args.attributes[0])}' of the sentence should inherit from Example1;\n 
-                                        3. The {re.sub('_', ' ', args.attributes[1])}' of the sentence should inherit from Example2;\n 
-                                        4. The {re.sub('_', ' ', args.attributes[2])}' of the sentence should inherit from Example1;\n 
-                                        5. The {re.sub('_', ' ', args.attributes[3])}' of the sentence should inherit from Example2;\n 
-                                        6. The {re.sub('_', ' ', args.attributes[4])}' of the sentence should inherit from Example1;\n 
-                                        7. The {re.sub('_', ' ', args.attributes[5])}' of the sentence should inherit from Example2;\n 
-                                        8. The {re.sub('_', ' ', args.attributes[6])}' and entities must be different from the given 2 examples.
-                                        """
-                Genetic_prompt += f'Relation: {class_name}\n'
-                Genetic_prompt += f'Text:'
-
-  
                 
                 
                 
@@ -425,7 +403,7 @@ def main(args):
                     print(f"JSONDecodeError! Received empty response. Attempt: {attempt}")
                     prompt_lst = []
                     attr_lst = []
-                    time.sleep(5)  # 适当减少等待时间
+                    time.sleep(5)  
                     continue
                 except openai.error.RateLimitError:
                     print("Rate Limit Error! Attempt:", attempt)
